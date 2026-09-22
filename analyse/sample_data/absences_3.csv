@@ -1,0 +1,68 @@
+date;code_etu;nature;duree_retard;justifiee;excusee;enseignant;cours;type;duree_cours
+2023-09-07T15:00:00;13;absence;;true;false;Enseignant027;R5.Real.14 Anglais;TD;90
+2023-09-11T11:20:00;43;absence;;false;false;Enseignant008;Présentation Stage;PRESENTATION STAGE;60
+2023-10-02T09:00:00;52;absence;;true;false;Enseignant012;R5.01Initiation au management d'une équipe de projet informatique;TD;180
+2023-10-02T09:00:00;54;absence;;true;false;Enseignant012;R5.01Initiation au management d'une équipe de projet informatique;TD;180
+2023-10-02T13:30:00;52;absence;;true;false;Enseignant006;R5.Real.05 Programmation avancée;TP;180
+2023-10-02T16:30:00;52;absence;;true;false;Enseignant028;R5.Real.10 Nouveaux paradigmes de base de données;TD;180
+2023-10-02T16:30:00;54;absence;;true;false;Enseignant028;R5.Real.10 Nouveaux paradigmes de base de données;TD;180
+2023-10-03T09:30:00;54;absence;;true;false;Enseignant002;R5.Real.05 Programmation avancée;TP;180
+2023-10-03T13:30:00;43;absence;;true;false;Enseignant019;R5.Real.09 Virtualisation avancée;TD;180
+2023-10-03T13:30:00;52;absence;;true;false;Enseignant019;R5.Real.09 Virtualisation avancée;TD;180
+2023-10-03T13:30:00;54;absence;;true;false;Enseignant019;R5.Real.09 Virtualisation avancée;TD;180
+2023-10-04T11:30:00;11;absence;;false;false;Enseignant001;Présentation Pépites;PRÉSENTATION PEPITES;60
+2023-10-04T11:30:00;54;absence;;true;false;Enseignant001;Présentation Pépites;PRÉSENTATION PEPITES;60
+2023-10-05T09:00:00;13;absence;;false;false;Enseignant002;R5.Real.12 Modélisation mathématiques;TD;180
+2023-10-05T10:30:00;13;absence;;false;false;Enseignant027;R5.Real.14 Anglais;TD;90
+2023-10-09T08:00:00;12;absence;;false;false;Enseignant019;R5.Real.09 Virtualisation avancée;CM;60
+2023-10-09T08:00:00;16;absence;;false;false;Enseignant019;R5.Real.09 Virtualisation avancée;CM;60
+2023-10-09T08:00:00;29;absence;;false;false;Enseignant019;R5.Real.09 Virtualisation avancée;CM;60
+2023-10-09T08:00:00;54;retard;30;false;false;Enseignant019;R5.Real.09 Virtualisation avancée;CM;60
+2023-10-09T09:00:00;12;absence;;false;false;Enseignant001;R5.Real.13 Economie durable et numérique;TD;90
+2023-10-09T16:30:00;12;absence;;false;false;Enseignant028;R5.Real.10 Nouveaux paradigmes de base de données;TD;120
+2023-10-11T08:00:00;8;absence;;false;false;Enseignant028;R5.Real.10 Nouveaux paradigmes de base de données;TD;120
+2023-10-11T10:00:00;8;absence;;false;false;Enseignant002;R5.Real.12 Modélisation mathématiques;TD;90
+2023-10-12T14:00:00;16;absence;;false;false;Enseignant002;R5.Real.12 Modélisation mathématiques;TD;90
+2023-10-12T15:30:00;18;absence;;false;true;Enseignant002;R5.Real.12 Modélisation mathématiques;TD;90
+2023-10-12T15:30:00;26;absence;;false;true;Enseignant002;R5.Real.12 Modélisation mathématiques;TD;90
+2023-10-12T15:30:00;57;absence;;false;true;Enseignant002;R5.Real.12 Modélisation mathématiques;TD;90
+2023-10-17T09:00:00;54;retard;30;false;false;Enseignant001;R5.Real.13 Economie durable et numérique;TD;90
+2023-10-17T10:30:00;8;absence;;false;false;Enseignant001;R5.Real.13 Economie durable et numérique;TD;90
+2023-10-18T08:00:00;5;absence;;true;false;Enseignant028;R5.Real.10 Nouveaux paradigmes de base de données;TD;120
+2023-11-07T16:30:00;57;absence;;false;false;Enseignant028;R5.Real.10 Nouveaux paradigmes de base de données;TD;90
+2023-11-15T13:30:00;16;absence;;true;false;Enseignant004;R5.Real.07 Automatisation de la chaine de production;TD;180
+2023-11-17T13:30:00;4;absence;;true;false;Enseignant002;R5.Real.05 Programmation avancée;TP;180
+2023-11-23T16:30:00;54;absence;;false;false;Enseignant008;Présentation Stage;CGI;60
+2023-12-05T09:00:00;8;absence;;false;false;Enseignant025;R5.Real.07 Automatisation de la chaine de production;TD;180
+2023-12-11T13:30:00;8;absence;;true;false;Enseignant005;R5.Real.05 Programmation avancée;TD;180
+2023-12-12T10:30:00;13;absence;;true;false;Enseignant025;R5.Real.07 Automatisation de la chaine de production;CM+TD;90
+2023-12-14T08:30:00;54;absence;;false;false;Enseignant029;R5.Real.08 Qualité de développement;TD;180
+2023-12-14T12:30:00;57;absence;;false;false;Enseignant029;R5.Real.08 Qualité de développement;TD;180
+2023-12-15T08:00:00;6;absence;;false;false;Enseignant006;R5.Real.11 Méthodes d'optimisation pour l'aide à la décision;TD;90
+2023-12-19T15:30:00;40;absence;;false;true;Enseignant002;R5.Real.12 Modélisation mathématiques;TD;90
+2023-12-21T08:00:00;48;absence;;true;false;Enseignant027;R5.Real.14 Anglais;TD;180
+2023-12-21T14:30:00;48;absence;;true;false;Enseignant001;R5.Real.13 Economie durable et numérique;EVALUATION;180
+2024-01-11T09:00:00;57;absence;;false;false;Enseignant027;R5.Real.14 Anglais;TD;90
+2024-01-18T08:00:00;4;retard;15;false;true;Enseignant027;R5.Real.14 Anglais;TD;90
+2024-01-22T09:00:00;16;absence;;false;false;Enseignant030;R6.02 Droit du numérique et de la propriété intellectuelle;TD;90
+2024-01-22T10:30:00;18;absence;;false;false;Enseignant030;R6.02 Droit du numérique et de la propriété intellectuelle;TD;90
+2024-01-26T08:30:00;23;absence;;true;false;Enseignant031;R6.01 Initiation à l'entreprenariat;TD;210
+2024-01-26T09:00:00;34;absence;;false;false;Enseignant011;R6.Real.05 Développement avancé;TD;180
+2024-01-26T13:30:00;23;absence;;true;false;Enseignant008;R6.Real.05 Développement avancé;TD;180
+2024-01-30T14:00:00;43;absence;;false;false;Enseignant009;S6.Real.01 Evolution d'une application existante;SAE;180
+2024-01-31T09:00:00;43;absence;;false;false;Enseignant009;S6.Real.01 Evolution d'une application existante;SAE;180
+2024-02-12T09:00:00;54;absence;;false;false;Enseignant008;R6.Real.05 Développement avancé;TD;180
+2024-02-13T09:00:00;6;absence;;true;false;Enseignant032;R6.Real.06 Maintenance applicative;TD;180
+2024-02-14T13:30:00;8;absence;;false;false;Enseignant032;R6.Real.06 Maintenance applicative;TD;180
+2024-02-14T17:00:00;8;absence;;false;false;Enseignant033;R6.03 Communication : organisation et diffusion de l'information;CM;180
+2024-02-15T09:00:00;6;absence;;true;false;Enseignant032;R6.Real.06 Maintenance applicative;TD;180
+2024-02-15T13:30:00;6;absence;;true;false;Enseignant033;R6.03 Communication : organisation et diffusion de l'information;TD;180
+2024-02-16T08:30:00;57;absence;;false;false;Enseignant031;R6.01 Initiation à l'entreprenariat;TD;210
+2024-02-16T09:00:00;54;retard;25;false;false;Enseignant030;R6.02 Droit du numérique et de la propriété intellectuelle;TD;90
+2024-02-22T09:00:00;8;absence;;false;false;Enseignant011;R6.Real.05 Développement avancé;TD;180
+2024-02-22T13:30:00;8;absence;;false;false;Enseignant032;R6.Real.06 Maintenance applicative;TD;180
+2024-02-23T13:30:00;18;retard;10;false;false;Enseignant031;R6.01 Initiation à l'entreprenariat;TD;210
+2024-03-11T09:00:00;8;absence;;false;false;Enseignant011;R6.Real.05 Développement avancé;TD;180
+2024-03-15T13:30:00;54;absence;;false;false;Enseignant031;R6.01 Initiation à l'entreprenariat;TD;210
+2024-03-18T09:00:00;18;absence;;true;false;Enseignant011;R6.Real.05 Développement avancé;TD;90
+2024-03-18T10:30:00;18;absence;;true;false;Enseignant030;R6.02 Droit du numérique et de la propriété intellectuelle;TD;90

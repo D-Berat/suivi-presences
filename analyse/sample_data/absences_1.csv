@@ -1,0 +1,633 @@
+date;code_etu;nature;duree_retard;justifiee;excusee;enseignant;cours;type;duree_cours
+2021-09-02T14:00:00;27;absence;;false;true;Enseignant001;R1.08 Introdution à la Gestion des organisations;TD;90
+2021-09-02T15:30:00;27;absence;;false;true;Enseignant002;R1.07 Outils mathématiques fondamentaux;TD;90
+2021-09-05T11:20:00;38;absence;;true;false;Enseignant003;R1.02 Développement d'interfaces web;CM;60
+2021-09-05T13:30:00;38;absence;;true;false;Enseignant004;R1.04 Intro aux syst. d'exploitation & à leur fonctionnement;TD;90
+2021-09-05T15:00:00;38;absence;;true;false;Enseignant003;R1.02 Développement d'interfaces web;TD;180
+2021-09-08T09:15:00;51;absence;;true;false;Enseignant001;R1.08 Introdution à la Gestion des organisations;TD;90
+2021-09-12T11:00:00;5;absence;;true;false;Enseignant001;R1.08 Introdution à la Gestion des organisations;CM;60
+2021-09-12T11:00:00;38;absence;;true;false;Enseignant001;R1.08 Introdution à la Gestion des organisations;CM;60
+2021-09-12T13:30:00;38;absence;;true;false;Enseignant002;R1.07 Outils mathématiques fondamentaux;TD;90
+2021-09-12T15:00:00;5;absence;;true;false;Enseignant002;R1.07 Outils mathématiques fondamentaux;TD;90
+2021-09-12T15:00:00;23;absence;;false;false;Enseignant002;R1.07 Outils mathématiques fondamentaux;TD;90
+2021-09-12T15:00:00;38;absence;;true;false;Enseignant004;R1.01 Initiation au développement;TD;90
+2021-09-13T09:00:00;38;absence;;true;false;Enseignant005;R1.03 Introduction à l'architecture des ordinateurs;TD;180
+2021-09-13T10:00:00;23;absence;;false;false;Enseignant002;R1.07 Outils mathématiques fondamentaux;TD;90
+2021-09-13T13:30:00;38;absence;;true;false;Enseignant002;R1.07 Outils mathématiques fondamentaux;TD;90
+2021-09-13T15:00:00;38;absence;;true;false;Enseignant001;R1.11 Bases de la communication;TD;90
+2021-09-19T08:15:00;42;retard;30;false;false;Enseignant004;R1.01 Initiation au développement;CM;60
+2021-09-19T09:30:00;38;absence;;true;false;Enseignant002;R1.07 Outils mathématiques fondamentaux;TD;90
+2021-09-19T11:00:00;38;absence;;true;false;Enseignant004;R1.01 Initiation au développement;TD;90
+2021-09-19T13:30:00;4;absence;;true;false;Enseignant006;R1.03 Introduction à l'architecture des ordinateurs;TD;180
+2021-09-19T13:30:00;9;absence;;false;true;Enseignant006;R1.03 Introduction à l'architecture des ordinateurs;TD;180
+2021-09-19T14:00:00;38;absence;;true;false;Enseignant001;R1.08 Introdution à la Gestion des organisations;TD;90
+2021-09-19T15:30:00;38;absence;;true;false;Enseignant007;R1.10 Anglais;TD;90
+2021-09-20T08:15:00;38;absence;;false;false;Enseignant001;R1.08 Introdution à la Gestion des organisations;CM;120
+2021-09-20T08:20:00;33;absence;;false;false;Enseignant001;R1.08 Introdution à la Gestion des organisations;CM;120
+2021-09-20T10:30:00;38;absence;;false;false;Enseignant004;R1.01 Initiation au développement;TD;90
+2021-09-20T10:30:00;51;absence;;true;false;Enseignant004;R1.01 Initiation au développement;TD;90
+2021-09-20T13:30:00;38;absence;;false;false;Enseignant001;R1.11 Bases de la communication;TP;90
+2021-09-20T15:00:00;38;absence;;false;false;Enseignant001;R1.08 Introdution à la Gestion des organisations;TD;120
+2021-09-21T15:00:00;7;absence;;false;false;Enseignant001;R1.08 Introdution à la Gestion des organisations;TD;90
+2021-09-22T08:30:00;7;absence;;true;false;Enseignant007;R1.10 Anglais;TD;90
+2021-09-22T08:30:00;38;absence;;false;false;Enseignant002;R1.07 Outils mathématiques fondamentaux;TP;90
+2021-09-22T10:00:00;7;absence;;true;false;Enseignant002;R1.07 Outils mathématiques fondamentaux;TP;90
+2021-09-22T10:00:00;38;absence;;false;false;Enseignant007;R1.10 Anglais;TD;90
+2021-09-26T09:30:00;14;absence;;true;false;Enseignant004;R1.01 Initiation au développement;TD;90
+2021-09-26T11:00:00;14;absence;;true;false;Enseignant002;R1.07 Outils mathématiques fondamentaux;TD;90
+2021-09-26T13:45:00;14;absence;;true;false;Enseignant004;R1.01 Initiation au développement;TD;180
+2021-09-26T17:00:00;14;absence;;true;false;Enseignant001;R1.08 Introdution à la Gestion des organisations;CM;60
+2021-09-27T13:30:00;51;absence;;true;false;Enseignant001;R1.08 Introdution à la Gestion des organisations;EVALUATION;90
+2021-09-27T14:30:00;28;absence;;false;false;Enseignant001;R1.08 Introdution à la Gestion des organisations;EVALUATION;30
+2021-09-27T15:00:00;14;absence;;true;false;Enseignant007;R1.10 Anglais;TD;90
+2021-09-27T16:45:00;14;absence;;true;false;Enseignant001;R1.08 Introdution à la Gestion des organisations;CM;60
+2021-09-28T08:00:00;38;absence;;false;false;Enseignant005;R1.04 Intro aux syst. d'exploitation & à leur fonctionnement;CM;60
+2021-09-28T09:15:00;14;absence;;true;false;Enseignant002;R1.07 Outils mathématiques fondamentaux;TP;90
+2021-09-28T09:15:00;38;absence;;false;false;Enseignant002;R1.07 Outils mathématiques fondamentaux;TP;90
+2021-09-28T10:45:00;14;absence;;true;false;Enseignant001;R1.11 Bases de la communication;TP;90
+2021-09-28T10:45:00;38;absence;;false;false;Enseignant001;R1.11 Bases de la communication;TP;90
+2021-09-28T13:30:00;38;absence;;false;false;Enseignant005;R1.04 Intro aux syst. d'exploitation & à leur fonctionnement;TD;180
+2021-09-29T09:00:00;17;absence;;true;false;Enseignant002;R1.07 Outils mathématiques fondamentaux;TD;90
+2021-09-29T09:00:00;19;absence;;false;false;Enseignant002;R1.07 Outils mathématiques fondamentaux;TD;90
+2021-09-29T09:00:00;38;absence;;false;false;Enseignant002;R1.07 Outils mathématiques fondamentaux;TD;90
+2021-09-29T10:30:00;17;absence;;true;false;Enseignant001;R1.08 Introdution à la Gestion des organisations;TD;90
+2021-09-29T10:30:00;19;absence;;false;false;Enseignant001;R1.08 Introdution à la Gestion des organisations;TD;90
+2021-09-29T10:30:00;38;absence;;false;false;Enseignant001;R1.08 Introdution à la Gestion des organisations;TD;90
+2021-09-30T09:00:00;38;absence;;false;false;Enseignant008;R1.05 Introduction aux bases de données et SQL;TD;180
+2021-09-30T13:30:00;38;absence;;false;false;Enseignant007;R1.10 Anglais;TD;90
+2021-10-03T09:00:00;38;absence;;false;false;Enseignant004;R1.01 Initiation au développement;TD;180
+2021-10-03T10:30:00;54;absence;;true;false;Enseignant007;R1.10 Anglais;TD;90
+2021-10-03T14:45:00;38;absence;;false;false;Enseignant007;R1.10 Anglais;TD;90
+2021-10-03T14:50:00;54;absence;;true;false;Enseignant009;R1.02 Développement d'interfaces web;TD;90
+2021-10-03T16:15:00;38;absence;;false;false;Enseignant009;R1.02 Développement d'interfaces web;TD;90
+2021-10-03T16:15:00;54;absence;;true;false;Enseignant007;R1.10 Anglais;TD;90
+2021-10-04T13:30:00;51;absence;;true;false;Enseignant005;R1.03 Introduction à l'architecture des ordinateurs;EVALUATION;60
+2021-10-04T13:30:00;54;absence;;true;false;Enseignant005;R1.03 Introduction à l'architecture des ordinateurs;EVALUATION;60
+2021-10-04T14:45:00;51;absence;;true;false;Enseignant001;R1.08 Introdution à la Gestion des organisations;TD;90
+2021-10-04T14:45:00;54;absence;;true;false;Enseignant004;R1.01 Initiation au développement;TD;90
+2021-10-04T16:15:00;51;absence;;true;false;Enseignant001;R1.11 Bases de la communication;TD;90
+2021-10-05T09:15:00;28;absence;;true;false;Enseignant004;R1.01 Initiation au développement;TD;180
+2021-10-05T09:15:00;38;absence;;false;false;Enseignant004;R1.01 Initiation au développement;TD;180
+2021-10-05T09:15:00;51;absence;;true;false;Enseignant004;R1.01 Initiation au développement;TD;180
+2021-10-05T13:30:00;28;absence;;true;false;Enseignant007;R1.10 Anglais;TD;90
+2021-10-05T13:30:00;38;absence;;false;false;Enseignant007;R1.10 Anglais;TD;90
+2021-10-05T13:30:00;51;absence;;true;false;Enseignant007;R1.10 Anglais;TD;90
+2021-10-05T15:00:00;28;absence;;true;false;Enseignant001;R1.11 Bases de la communication;TP;90
+2021-10-06T09:00:00;19;absence;;false;false;Enseignant002;R1.07 Outils mathématiques fondamentaux;TD;90
+2021-10-06T09:00:00;28;absence;;true;false;Enseignant002;R1.07 Outils mathématiques fondamentaux;TD;180
+2021-10-06T09:00:00;38;absence;;false;false;Enseignant002;R1.07 Outils mathématiques fondamentaux;TD;180
+2021-10-06T09:00:00;51;absence;;true;false;Enseignant002;R1.07 Outils mathématiques fondamentaux;TD;180
+2021-10-06T13:30:00;28;absence;;true;false;Enseignant004;R1.01 Initiation au développement;TD;180
+2021-10-06T13:30:00;38;absence;;false;false;Enseignant004;R1.01 Initiation au développement;TD;180
+2021-10-06T13:30:00;51;absence;;true;false;Enseignant004;R1.01 Initiation au développement;TD;180
+2021-10-06T15:00:00;28;absence;;true;false;Enseignant002;R1.02 Développement d'interfaces web;TD;90
+2021-10-06T15:00:00;38;absence;;false;false;Enseignant002;R1.02 Développement d'interfaces web;TD;90
+2021-10-06T15:00:00;51;absence;;true;false;Enseignant002;R1.02 Développement d'interfaces web;TD;90
+2021-10-07T09:00:00;21;absence;;false;false;Enseignant001;R1.08 Introdution à la Gestion des organisations;TD;90
+2021-10-07T09:00:00;28;absence;;true;false;Enseignant008;R1.05 Introduction aux bases de données et SQL;TD;180
+2021-10-07T09:00:00;51;absence;;true;false;Enseignant008;R1.05 Introduction aux bases de données et SQL;TD;180
+2021-10-07T13:30:00;28;absence;;true;false;Enseignant001;R1.08 Introdution à la Gestion des organisations;TD;90
+2021-10-07T13:30:00;36;absence;;true;false;Enseignant008;R1.05 Introduction aux bases de données et SQL;TD;180
+2021-10-07T13:30:00;38;retard;25;true;false;Enseignant001;R1.08 Introdution à la Gestion des organisations;TD;90
+2021-10-07T13:30:00;51;absence;;true;false;Enseignant001;R1.08 Introdution à la Gestion des organisations;TD;90
+2021-10-11T09:00:00;14;absence;;true;false;Enseignant001;R1.08 Introdution à la Gestion des organisations;TD;180
+2021-10-11T09:00:00;38;absence;;true;false;Enseignant001;R1.08 Introdution à la Gestion des organisations;TD;180
+2021-10-11T13:30:00;38;absence;;true;false;Enseignant005;R1.03 Introduction à l'architecture des ordinateurs;CM;60
+2021-10-12T09:00:00;21;absence;;false;false;Enseignant001;R1.11 Bases de la communication;TP;90
+2021-10-12T09:00:00;22;absence;;false;false;Enseignant004;R1.01 Initiation au développement;TD;180
+2021-10-12T09:00:00;38;absence;;true;false;Enseignant004;R1.01 Initiation au développement;TD;180
+2021-10-12T10:30:00;8;absence;;true;false;Enseignant001;R1.11 Bases de la communication;TP;90
+2021-10-12T10:30:00;21;absence;;false;false;Enseignant002;R1.07 Outils mathématiques fondamentaux;TP;90
+2021-10-12T13:30:00;8;absence;;true;false;Enseignant004;R1.01 Initiation au développement;TD;180
+2021-10-12T14:00:00;22;absence;;false;false;Enseignant008;R1.05 Introduction aux bases de données et SQL;TD;90
+2021-10-12T15:00:00;51;absence;;true;false;Enseignant008;R1.05 Introduction aux bases de données et SQL;TD;30
+2021-10-12T15:30:00;15;absence;;false;true;Enseignant007;R1.10 Anglais;TD;90
+2021-10-12T15:30:00;22;absence;;false;false;Enseignant007;R1.10 Anglais;TD;90
+2021-10-12T15:30:00;38;absence;;true;false;Enseignant007;R1.10 Anglais;TD;90
+2021-10-13T09:00:00;8;absence;;true;false;Enseignant005;R1.04 Intro aux syst. d'exploitation & à leur fonctionnement;TD;180
+2021-10-13T09:00:00;38;absence;;true;false;Enseignant002;R1.07 Outils mathématiques fondamentaux;TP;90
+2021-10-13T13:30:00;8;absence;;true;false;Enseignant004;R1.01 Initiation au développement;EVALUATION;90
+2021-10-13T13:30:00;38;absence;;true;false;Enseignant004;R1.01 Initiation au développement;EVALUATION;90
+2021-10-13T15:30:00;38;absence;;true;false;Enseignant001;R1.11 Bases de la communication;TP;90
+2021-10-14T09:30:00;38;absence;;true;false;Enseignant001;R1.08 Introdution à la Gestion des organisations;TD;90
+2021-10-14T11:00:00;38;absence;;true;false;Enseignant008;R1.05 Introduction aux bases de données et SQL;TD;60
+2021-10-18T11:10:00;22;absence;;false;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;TD;60
+2021-10-18T11:10:00;38;absence;;true;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;TD;60
+2021-10-18T13:30:00;38;absence;;true;false;Enseignant001;S1.05 Recueil de besoins;CM;180
+2021-10-19T08:00:00;33;absence;;false;true;Enseignant004;S1.01 Implémentation d'un besoin client;TP;180
+2021-10-19T08:00:00;38;absence;;false;false;Enseignant004;S1.01 Implémentation d'un besoin client;TP;180
+2021-10-21T08:00:00;5;absence;;false;false;Enseignant005;R1.04 Intro aux syst. d'exploitation & à leur fonctionnement;CM;60
+2021-10-21T08:00:00;16;absence;;false;false;Enseignant005;R1.04 Intro aux syst. d'exploitation & à leur fonctionnement;CM;60
+2021-10-24T08:15:00;38;absence;;false;false;Enseignant009;R1.01 Initiation au développement;CM;60
+2021-10-24T09:30:00;38;absence;;false;false;Enseignant008;R1.05 Introduction aux bases de données et SQL;TD;180
+2021-10-24T13:45:00;38;absence;;false;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;CM;60
+2021-10-24T15:00:00;38;absence;;false;false;Enseignant004;S1.01 Implémentation d'un besoin client;TP;180
+2021-10-25T08:00:00;21;absence;;true;false;Enseignant004;S1.01 Implémentation d'un besoin client;TP;180
+2021-10-25T08:45:00;19;absence;;false;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2021-10-25T08:45:00;38;absence;;false;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2021-10-25T08:45:00;40;absence;;true;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2021-10-25T08:45:00;52;absence;;true;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2021-10-25T10:15:00;15;absence;;true;false;Enseignant001;R1.08 Introdution à la Gestion des organisations;TD;90
+2021-10-25T10:15:00;19;absence;;false;false;Enseignant001;R1.08 Introdution à la Gestion des organisations;TD;90
+2021-10-25T10:15:00;38;absence;;false;false;Enseignant001;R1.08 Introdution à la Gestion des organisations;TD;90
+2021-10-25T10:15:00;40;absence;;true;false;Enseignant001;R1.08 Introdution à la Gestion des organisations;TD;90
+2021-10-25T10:15:00;52;absence;;true;false;Enseignant001;R1.08 Introdution à la Gestion des organisations;TD;90
+2021-10-25T13:30:00;15;absence;;true;false;Enseignant004;S1.01 Implémentation d'un besoin client;TP;180
+2021-10-25T13:30:00;21;absence;;true;false;Enseignant001;R1.11 Bases de la communication;TD;90
+2021-10-25T13:30:00;40;absence;;true;false;Enseignant004;S1.01 Implémentation d'un besoin client;TP;180
+2021-10-25T13:30:00;52;absence;;true;false;Enseignant004;S1.01 Implémentation d'un besoin client;TP;180
+2021-10-25T15:00:00;21;absence;;true;false;Enseignant001;R1.08 Introdution à la Gestion des organisations;TD;90
+2021-10-25T15:00:00;38;absence;;false;false;Enseignant007;R1.10 Anglais;TP;90
+2021-10-25T16:00:00;15;absence;;true;false;Enseignant001;R1.11 Bases de la communication;TD;90
+2021-10-25T16:00:00;38;absence;;false;false;Enseignant001;R1.11 Bases de la communication;TD;90
+2021-10-25T16:00:00;40;absence;;true;false;Enseignant001;R1.11 Bases de la communication;TD;90
+2021-10-25T16:00:00;52;absence;;true;false;Enseignant001;R1.11 Bases de la communication;TD;90
+2021-10-25T16:30:00;15;absence;;true;false;Enseignant001;R1.11 Bases de la communication;TD;90
+2021-10-25T16:30:00;21;absence;;true;false;Enseignant004;S1.01 Implémentation d'un besoin client;TP;90
+2021-10-25T16:30:00;33;absence;;false;true;Enseignant001;R1.11 Bases de la communication;TD;90
+2021-10-25T16:30:00;38;absence;;false;false;Enseignant001;R1.11 Bases de la communication;TD;90
+2021-10-25T16:30:00;40;absence;;true;false;Enseignant001;R1.11 Bases de la communication;TD;90
+2021-10-25T16:30:00;52;absence;;true;false;Enseignant001;R1.11 Bases de la communication;TD;90
+2021-10-26T08:00:00;15;absence;;true;false;Enseignant004;S1.01 Implémentation d'un besoin client;TP;180
+2021-10-26T08:00:00;19;absence;;false;false;Enseignant004;S1.01 Implémentation d'un besoin client;TP;180
+2021-10-26T08:00:00;40;absence;;true;false;Enseignant004;S1.01 Implémentation d'un besoin client;TP;180
+2021-10-26T08:00:00;52;absence;;true;false;Enseignant004;S1.01 Implémentation d'un besoin client;TP;180
+2021-10-26T09:00:00;21;absence;;true;false;Enseignant005;R1.04 Intro aux syst. d'exploitation & à leur fonctionnement;TD;180
+2021-10-26T11:00:00;15;absence;;true;false;Enseignant001;R1.11 Bases de la communication;TD;90
+2021-10-26T11:00:00;19;absence;;false;false;Enseignant001;R1.11 Bases de la communication;TD;90
+2021-10-26T11:00:00;38;absence;;false;false;Enseignant001;R1.11 Bases de la communication;TD;90
+2021-10-26T11:00:00;40;absence;;true;false;Enseignant001;R1.11 Bases de la communication;TD;90
+2021-10-26T11:00:00;52;absence;;true;false;Enseignant001;R1.11 Bases de la communication;TD;90
+2021-10-26T13:30:00;15;absence;;true;false;Enseignant005;R1.04 Intro aux syst. d'exploitation & à leur fonctionnement;TP;180
+2021-10-26T13:30:00;21;absence;;true;false;Enseignant001;R1.11 Bases de la communication;TD;90
+2021-10-26T13:30:00;38;absence;;false;false;Enseignant005;R1.04 Intro aux syst. d'exploitation & à leur fonctionnement;TP;180
+2021-10-26T13:30:00;40;absence;;true;false;Enseignant005;R1.04 Intro aux syst. d'exploitation & à leur fonctionnement;TP;180
+2021-10-26T13:30:00;52;absence;;true;false;Enseignant005;R1.04 Intro aux syst. d'exploitation & à leur fonctionnement;TP;180
+2021-10-26T15:00:00;21;absence;;true;false;Enseignant007;R1.10 Anglais;TP;90
+2021-10-26T16:30:00;15;absence;;true;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;TD;90
+2021-10-26T16:30:00;38;absence;;false;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;TD;90
+2021-10-26T16:30:00;40;absence;;true;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;TD;90
+2021-10-26T16:30:00;52;absence;;true;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;TD;90
+2021-10-27T04:05:00;40;absence;;true;false;Enseignant007;R1.10 Anglais;TP;90
+2021-10-27T09:30:00;15;absence;;true;false;Enseignant001;R1.12 Projet Professionnel et Personnel;TP;90
+2021-10-27T09:30:00;19;absence;;false;false;Enseignant001;R1.12 Projet Professionnel et Personnel;TP;90
+2021-10-27T09:30:00;40;absence;;true;false;Enseignant001;R1.12 Projet Professionnel et Personnel;TP;90
+2021-10-27T09:30:00;52;absence;;true;false;Enseignant001;R1.12 Projet Professionnel et Personnel;TP;90
+2021-10-27T11:00:00;15;absence;;true;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2021-10-27T11:00:00;38;absence;;false;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2021-10-27T11:00:00;40;absence;;true;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2021-10-27T11:00:00;52;absence;;true;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2021-10-27T13:45:00;15;absence;;true;false;Enseignant001;R1.08 Introdution à la Gestion des organisations;EVALUATION;90
+2021-10-27T13:45:00;21;absence;;true;false;Enseignant001;R1.08 Introdution à la Gestion des organisations;EVALUATION;90
+2021-10-27T13:45:00;38;absence;;false;false;Enseignant001;R1.08 Introdution à la Gestion des organisations;EVALUATION;90
+2021-10-27T13:45:00;40;absence;;true;false;Enseignant001;R1.08 Introdution à la Gestion des organisations;EVALUATION;90
+2021-10-27T13:45:00;52;absence;;true;false;Enseignant001;R1.08 Introdution à la Gestion des organisations;EVALUATION;90
+2021-10-27T15:45:00;15;absence;;true;false;Enseignant007;R1.10 Anglais;TP;90
+2021-10-27T15:45:00;21;absence;;true;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;TD;90
+2021-10-27T15:45:00;52;absence;;true;false;Enseignant007;R1.10 Anglais;TP;90
+2021-10-28T08:30:00;15;absence;;true;false;Enseignant001;R1.11 Bases de la communication;TD;90
+2021-10-28T08:30:00;27;absence;;false;false;Enseignant001;R1.11 Bases de la communication;TD;90
+2021-10-28T08:30:00;38;absence;;false;false;Enseignant001;R1.11 Bases de la communication;TD;90
+2021-10-28T08:30:00;40;absence;;true;false;Enseignant001;R1.11 Bases de la communication;TD;90
+2021-10-28T08:30:00;52;absence;;true;false;Enseignant001;R1.11 Bases de la communication;TD;90
+2021-10-28T10:30:00;21;absence;;true;false;Enseignant008;R1.05 Introduction aux bases de données et SQL;TD;90
+2021-10-28T13:30:00;21;absence;;true;false;Enseignant009;S1.05 Recueil de besoins;TP;180
+2021-10-28T13:30:00;38;absence;;false;false;Enseignant009;S1.05 Recueil de besoins;TP;180
+2021-10-28T13:30:00;52;absence;;true;false;Enseignant009;S1.05 Recueil de besoins;TP;180
+2021-11-07T11:00:00;38;absence;;false;false;Enseignant007;R1.10 Anglais;TP;90
+2021-11-07T13:30:00;38;absence;;false;false;Enseignant008;R1.05 Introduction aux bases de données et SQL;TD;180
+2021-11-08T14:45:00;38;absence;;false;false;Enseignant005;R1.04 Intro aux syst. d'exploitation & à leur fonctionnement;TP;180
+2021-11-09T08:00:00;14;absence;;true;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;TD;90
+2021-11-09T08:00:00;21;absence;;false;false;Enseignant004;S1.01 Implémentation d'un besoin client;TP;180
+2021-11-09T08:00:00;38;absence;;false;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;TD;90
+2021-11-09T09:30:00;14;absence;;true;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2021-11-09T09:30:00;38;absence;;false;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2021-11-09T13:30:00;38;absence;;false;false;Enseignant009;R1.01 Initiation au développement;TD;90
+2021-11-09T15:00:00;38;absence;;false;false;Enseignant004;S1.01 Implémentation d'un besoin client;TP;180
+2021-11-09T16:30:00;42;absence;;false;false;Enseignant007;R1.10 Anglais;TP;90
+2021-11-10T08:00:00;38;absence;;false;false;Enseignant010;R1.12 Projet Professionnel et Personnel;TP;90
+2021-11-10T09:30:00;38;absence;;false;false;Enseignant001;R1.11 Bases de la communication;TP;90
+2021-11-10T13:30:00;38;absence;;false;false;Enseignant004;S1.01 Implémentation d'un besoin client;TP;180
+2021-11-14T08:00:00;8;absence;;true;false;Enseignant001;R1.11 Bases de la communication;TD;120
+2021-11-14T10:15:00;8;absence;;true;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;CM;60
+2021-11-14T10:15:00;14;absence;;true;true;Enseignant001;R1.09 Introduction à l'économie durable et numérique;CM;60
+2021-11-14T10:15:00;38;absence;;false;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;CM;60
+2021-11-14T13:30:00;38;absence;;false;false;Enseignant011;R1.05 Introduction aux bases de données et SQL;TP;180
+2021-11-15T09:00:00;33;absence;;false;false;Enseignant007;R1.10 Anglais;TD;90
+2021-11-15T09:00:00;38;absence;;false;false;Enseignant007;R1.10 Anglais;TD;90
+2021-11-15T10:30:00;33;absence;;false;false;Enseignant009;R1.01 Initiation au développement;TD;90
+2021-11-15T10:30:00;38;absence;;false;false;Enseignant009;R1.01 Initiation au développement;TD;90
+2021-11-15T13:30:00;38;absence;;false;false;Enseignant009;R1.01 Initiation au développement;TD;180
+2021-11-16T08:00:00;17;absence;;false;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;CM;60
+2021-11-16T08:00:00;19;absence;;false;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;CM;60
+2021-11-16T08:00:00;38;absence;;false;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;CM;60
+2021-11-16T09:15:00;19;absence;;false;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;TD;60
+2021-11-16T09:15:00;38;absence;;false;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;TD;60
+2021-11-16T10:45:00;19;absence;;false;false;Enseignant002;R1.01 Initiation au développement;TD;90
+2021-11-16T10:45:00;38;absence;;false;false;Enseignant002;R1.01 Initiation au développement;TD;90
+2021-11-16T13:30:00;2;absence;;false;false;Enseignant001;R1.11 Bases de la communication;TD;90
+2021-11-16T13:30:00;38;absence;;false;false;Enseignant001;R1.11 Bases de la communication;TD;90
+2021-11-16T15:30:00;2;absence;;false;false;Enseignant010;R1.12 Projet Professionnel et Personnel;TP;90
+2021-11-16T15:30:00;38;absence;;false;false;Enseignant010;R1.12 Projet Professionnel et Personnel;TP;90
+2021-11-17T09:00:00;19;absence;;false;false;Enseignant005;R1.04 Intro aux syst. d'exploitation & à leur fonctionnement;TD;180
+2021-11-17T09:00:00;38;absence;;false;false;Enseignant005;R1.04 Intro aux syst. d'exploitation & à leur fonctionnement;TD;180
+2021-11-17T13:30:00;38;absence;;false;false;Enseignant009;R1.01 Initiation au développement;TD;180
+2021-11-18T09:00:00;19;absence;;false;false;Enseignant008;R1.05 Introduction aux bases de données et SQL;TP;180
+2021-11-21T09:30:00;19;absence;;false;false;Enseignant009;R1.01 Initiation au développement;TD;180
+2021-11-21T09:30:00;38;absence;;false;false;Enseignant009;R1.01 Initiation au développement;TD;180
+2021-11-22T08:00:00;38;absence;;false;false;Enseignant005;S1.03 Installation d'un poste pour le développement;TD;240
+2021-11-22T13:30:00;38;absence;;false;false;Enseignant009;R1.01 Initiation au développement;TP;180
+2021-11-23T09:00:00;19;absence;;false;false;Enseignant009;R1.01 Initiation au développement;TP;180
+2021-11-23T09:00:00;38;absence;;false;false;Enseignant005;R1.04 Intro aux syst. d'exploitation & à leur fonctionnement;TP;180
+2021-11-23T13:30:00;19;absence;;false;false;Enseignant005;R1.04 Intro aux syst. d'exploitation & à leur fonctionnement;TP;180
+2021-11-23T13:30:00;38;absence;;false;false;Enseignant011;R1.05 Introduction aux bases de données et SQL;TP;180
+2021-11-23T16:30:00;19;absence;;false;false;Enseignant007;R1.10 Anglais;TP;90
+2021-11-24T08:00:00;19;absence;;false;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;CM;60
+2021-11-24T08:00:00;38;absence;;false;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;CM;60
+2021-11-24T09:00:00;19;absence;;false;false;Enseignant008;R1.05 Introduction aux bases de données et SQL;TP;180
+2021-11-24T09:00:00;36;absence;;true;false;Enseignant005;R1.04 Intro aux syst. d'exploitation & à leur fonctionnement;TP;180
+2021-11-24T09:00:00;38;absence;;false;false;Enseignant006;R1.01 Initiation au développement;TP;180
+2021-11-24T09:00:00;49;absence;;false;false;Enseignant006;R1.01 Initiation au développement;TP;180
+2021-11-24T13:00:00;36;absence;;true;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;TD;90
+2021-11-24T13:30:00;19;absence;;false;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2021-11-24T13:30:00;38;absence;;false;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2021-11-24T15:00:00;36;absence;;true;false;Enseignant002;R1.06 Mathématiques discrètes;EVALUATION;90
+2021-11-24T15:00:00;38;absence;;false;false;Enseignant007;R1.10 Anglais;TP;90
+2021-11-24T16:30:00;36;absence;;true;false;Enseignant007;R1.10 Anglais;TP;90
+2021-11-25T09:00:00;19;absence;;false;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;TD;90
+2021-11-25T09:00:00;38;absence;;false;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;TD;90
+2021-11-25T10:30:00;19;absence;;false;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2021-11-25T10:30:00;38;absence;;false;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2021-11-25T13:30:00;36;absence;;true;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2021-11-25T13:30:00;38;absence;;false;false;Enseignant005;R1.04 Intro aux syst. d'exploitation & à leur fonctionnement;TP;180
+2021-11-28T09:00:00;6;absence;;false;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2021-11-28T09:00:00;38;absence;;false;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2021-11-28T10:30:00;38;absence;;false;false;Enseignant010;R1.12 Projet Professionnel et Personnel;TD;90
+2021-11-29T09:00:00;38;absence;;false;false;Enseignant007;R1.10 Anglais;TP;90
+2021-11-29T13:50:00;38;absence;;false;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;CM;60
+2021-11-29T15:00:00;38;absence;;false;false;Enseignant007;R1.10 Anglais;EVALUATION;90
+2021-12-01T09:00:00;12;absence;;true;false;Enseignant009;R1.01 Initiation au développement;TP;180
+2021-12-01T09:00:00;14;absence;;true;false;Enseignant005;R1.04 Intro aux syst. d'exploitation & à leur fonctionnement;TP;180
+2021-12-01T09:00:00;19;absence;;false;false;Enseignant006;R1.01 Initiation au développement;TP;180
+2021-12-01T09:00:00;38;absence;;false;false;Enseignant005;R1.04 Intro aux syst. d'exploitation & à leur fonctionnement;TP;180
+2021-12-01T13:30:00;12;absence;;true;false;Enseignant006;R1.01 Initiation au développement;TP;180
+2021-12-01T13:30:00;19;absence;;false;false;Enseignant009;R1.01 Initiation au développement;TP;180
+2021-12-02T09:00:00;19;absence;;false;false;Enseignant005;R1.04 Intro aux syst. d'exploitation & à leur fonctionnement;TP;180
+2021-12-02T09:00:00;28;absence;;false;true;Enseignant005;R1.04 Intro aux syst. d'exploitation & à leur fonctionnement;TP;180
+2021-12-02T09:00:00;32;absence;;false;true;Enseignant005;R1.04 Intro aux syst. d'exploitation & à leur fonctionnement;TP;180
+2021-12-02T09:00:00;52;absence;;false;true;Enseignant005;R1.04 Intro aux syst. d'exploitation & à leur fonctionnement;TP;180
+2021-12-02T13:30:00;6;absence;;false;false;Enseignant006;R1.01 Initiation au développement;TP;180
+2021-12-02T13:30:00;8;absence;;false;false;Enseignant009;R1.01 Initiation au développement;TP;180
+2021-12-02T13:30:00;12;absence;;true;false;Enseignant008;R1.05 Introduction aux bases de données et SQL;TP;180
+2021-12-02T13:30:00;13;absence;;false;false;Enseignant008;R1.05 Introduction aux bases de données et SQL;TP;180
+2021-12-02T13:30:00;14;absence;;true;false;Enseignant006;R1.01 Initiation au développement;TP;180
+2021-12-02T13:30:00;18;absence;;false;false;Enseignant008;R1.05 Introduction aux bases de données et SQL;TP;180
+2021-12-02T13:30:00;30;absence;;false;false;Enseignant009;R1.01 Initiation au développement;TP;180
+2021-12-02T13:30:00;38;absence;;false;false;Enseignant006;R1.01 Initiation au développement;TP;180
+2021-12-02T13:30:00;41;absence;;false;false;Enseignant009;R1.01 Initiation au développement;TP;180
+2021-12-02T13:30:00;49;absence;;false;false;Enseignant009;R1.01 Initiation au développement;TP;180
+2021-12-02T13:30:00;51;absence;;false;false;Enseignant006;R1.01 Initiation au développement;TP;180
+2021-12-02T14:20:00;42;absence;;true;false;Enseignant006;R1.01 Initiation au développement;TP;130
+2021-12-05T09:00:00;12;absence;;true;false;Enseignant009;R1.01 Initiation au développement;TP;180
+2021-12-05T09:00:00;14;absence;;true;false;Enseignant001;R1.12 Projet Professionnel et Personnel;TP;90
+2021-12-05T09:00:00;19;absence;;false;false;Enseignant007;R1.10 Anglais;TP;90
+2021-12-05T09:00:00;38;absence;;false;false;Enseignant001;R1.12 Projet Professionnel et Personnel;TP;90
+2021-12-05T10:30:00;14;absence;;true;false;Enseignant007;R1.10 Anglais;TP;90
+2021-12-05T10:30:00;38;absence;;false;false;Enseignant007;R1.10 Anglais;TP;90
+2021-12-05T13:30:00;19;absence;;false;false;Enseignant009;R1.01 Initiation au développement;TP;90
+2021-12-05T13:30:00;52;absence;;true;false;Enseignant009;R1.01 Initiation au développement;TP;90
+2021-12-05T16:50:00;12;absence;;true;false;Enseignant005;R1.04 Intro aux syst. d'exploitation & à leur fonctionnement;EVALUATION;90
+2021-12-05T16:50:00;14;absence;;true;false;Enseignant005;R1.04 Intro aux syst. d'exploitation & à leur fonctionnement;EVALUATION;90
+2021-12-05T16:50:00;19;absence;;false;false;Enseignant005;R1.04 Intro aux syst. d'exploitation & à leur fonctionnement;EVALUATION;90
+2021-12-05T16:50:00;38;absence;;false;false;Enseignant005;R1.04 Intro aux syst. d'exploitation & à leur fonctionnement;EVALUATION;90
+2021-12-05T16:50:00;52;absence;;true;false;Enseignant005;R1.04 Intro aux syst. d'exploitation & à leur fonctionnement;EVALUATION;90
+2021-12-06T13:50:00;12;absence;;true;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;CM;60
+2021-12-06T13:50:00;14;absence;;true;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;CM;60
+2021-12-06T13:50:00;52;absence;;true;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;CM;60
+2021-12-06T15:00:00;12;absence;;true;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;TD;90
+2021-12-06T15:00:00;14;absence;;true;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2021-12-06T15:00:00;38;absence;;false;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2021-12-06T15:00:00;49;absence;;true;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;TD;90
+2021-12-06T16:30:00;12;absence;;true;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2021-12-06T16:30:00;14;absence;;true;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;TD;90
+2021-12-06T16:30:00;38;absence;;false;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;TD;90
+2021-12-06T16:30:00;49;absence;;true;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2021-12-06T16:30:00;52;absence;;true;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;TD;90
+2021-12-08T08:00:00;33;absence;;false;false;Enseignant010;R1.12 Projet Professionnel et Personnel;TP;90
+2021-12-08T08:00:00;38;absence;;false;false;Enseignant010;R1.12 Projet Professionnel et Personnel;TP;90
+2021-12-08T09:30:00;19;absence;;false;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2021-12-08T09:30:00;33;absence;;false;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2021-12-08T09:30:00;38;absence;;false;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2021-12-08T11:00:00;19;absence;;false;false;Enseignant001;PORTFLIO Démarche Portfolio;TP;90
+2021-12-08T11:00:00;33;absence;;false;false;Enseignant011;R1.05 Introduction aux bases de données et SQL;TP;90
+2021-12-08T11:00:00;38;absence;;false;false;Enseignant011;R1.05 Introduction aux bases de données et SQL;TP;90
+2021-12-08T13:30:00;19;absence;;false;false;Enseignant008;R1.05 Introduction aux bases de données et SQL;TD;90
+2021-12-08T13:30:00;38;absence;;false;false;Enseignant008;R1.05 Introduction aux bases de données et SQL;TD;90
+2021-12-09T10:30:00;19;absence;;false;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2021-12-09T10:30:00;38;absence;;false;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2021-12-09T13:30:00;38;absence;;false;false;Enseignant009;R1.01 Initiation au développement;TP;180
+2021-12-12T09:30:00;8;absence;;true;false;Enseignant007;R1.06 Mathématiques discrètes;TP;90
+2021-12-12T09:30:00;19;absence;;false;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2021-12-12T09:30:00;38;absence;;false;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2021-12-12T11:00:00;8;absence;;true;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2021-12-12T11:00:00;19;absence;;false;false;Enseignant007;R1.06 Mathématiques discrètes;TP;90
+2021-12-12T11:00:00;38;absence;;false;false;Enseignant011;R1.03 Introduction à l'architecture des ordinateurs;TP;90
+2021-12-12T14:00:00;38;absence;;false;false;Enseignant007;R1.10 Anglais;TP;90
+2021-12-12T15:30:00;19;absence;;false;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2021-12-12T15:30:00;38;absence;;false;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2021-12-13T08:00:00;2;absence;;false;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;CM;60
+2021-12-13T08:00:00;3;absence;;false;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;CM;60
+2021-12-13T08:00:00;19;absence;;false;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;CM;60
+2021-12-13T08:00:00;38;absence;;false;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;CM;60
+2021-12-13T14:00:00;22;absence;;true;false;Enseignant009;R1.01 Initiation au développement;TD;180
+2021-12-13T14:00:00;34;absence;;true;false;Enseignant009;R1.01 Initiation au développement;TD;180
+2021-12-13T14:00:00;38;absence;;false;false;Enseignant009;R1.01 Initiation au développement;TD;180
+2021-12-14T08:20:00;19;absence;;false;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;CM;60
+2021-12-14T08:20:00;38;absence;;false;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;CM;60
+2021-12-15T09:00:00;3;absence;;true;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;TP;90
+2021-12-15T09:00:00;19;absence;;false;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;TP;90
+2021-12-15T09:00:00;27;absence;;false;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;TP;90
+2021-12-15T09:00:00;30;absence;;false;false;Enseignant009;R1.01 Initiation au développement;TP;180
+2021-12-15T09:00:00;32;absence;;false;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;TP;90
+2021-12-15T09:00:00;38;absence;;false;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;TP;90
+2021-12-15T10:30:00;3;absence;;true;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2021-12-15T10:30:00;19;absence;;false;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2021-12-15T10:30:00;32;absence;;false;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2021-12-15T10:30:00;38;absence;;false;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2021-12-15T13:30:00;3;absence;;true;false;Enseignant005;R1.04 Intro aux syst. d'exploitation & à leur fonctionnement;TP;90
+2021-12-15T13:30:00;19;absence;;false;false;Enseignant009;R1.01 Initiation au développement;TP;180
+2021-12-15T13:30:00;32;absence;;false;false;Enseignant009;R1.01 Initiation au développement;TP;180
+2021-12-15T13:30:00;38;absence;;false;false;Enseignant005;R1.04 Intro aux syst. d'exploitation & à leur fonctionnement;TP;90
+2021-12-16T09:00:00;5;absence;;true;false;Enseignant007;R1.10 Anglais;TP;90
+2021-12-16T09:00:00;19;absence;;false;false;Enseignant005;R1.04 Intro aux syst. d'exploitation & à leur fonctionnement;TP;180
+2021-12-16T09:00:00;31;absence;;true;false;Enseignant007;R1.10 Anglais;TP;90
+2021-12-16T09:00:00;38;absence;;false;false;Enseignant009;R1.01 Initiation au développement;TP;180
+2021-12-16T09:40:00;51;absence;;true;false;Enseignant009;R1.01 Initiation au développement;TP;130
+2021-12-16T10:30:00;5;absence;;true;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2021-12-16T10:30:00;31;absence;;true;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2021-12-16T13:30:00;5;absence;;true;false;Enseignant009;R1.01 Initiation au développement;TP;180
+2021-12-16T13:30:00;31;absence;;true;false;Enseignant009;R1.01 Initiation au développement;TP;180
+2022-01-04T08:00:00;14;absence;;false;true;Enseignant001;R1.09 Introduction à l'économie durable et numérique;TD;90
+2022-01-04T08:00:00;22;absence;;false;true;Enseignant001;R1.09 Introduction à l'économie durable et numérique;TD;90
+2022-01-04T08:00:00;27;absence;;false;true;Enseignant001;R1.09 Introduction à l'économie durable et numérique;TD;90
+2022-01-04T08:00:00;34;absence;;false;true;Enseignant001;R1.09 Introduction à l'économie durable et numérique;TD;90
+2022-01-04T09:30:00;27;absence;;false;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2022-01-05T09:00:00;54;absence;;true;false;Enseignant002;R1.06 Mathématiques discrètes;TP;90
+2022-01-05T11:00:00;54;absence;;true;false;Enseignant005;R1.04 Intro aux syst. d'exploitation & à leur fonctionnement;TP;90
+2022-01-05T14:00:00;54;absence;;true;false;Enseignant009;R1.01 Initiation au développement;TP;120
+2022-01-06T08:00:00;25;absence;;false;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;TD;90
+2022-01-06T08:00:00;54;absence;;true;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;TD;90
+2022-01-06T09:30:00;25;absence;;false;false;Enseignant007;R1.10 Anglais;TD;90
+2022-01-06T09:30:00;54;absence;;true;false;Enseignant007;R1.10 Anglais;TD;90
+2022-01-06T11:00:00;25;absence;;false;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2022-01-06T11:00:00;54;absence;;true;false;Enseignant002;R1.06 Mathématiques discrètes;TD;90
+2022-01-06T13:30:00;25;absence;;false;false;Enseignant011;R1.05 Introduction aux bases de données et SQL;TP;180
+2022-01-06T15:00:00;40;absence;;false;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;TD;90
+2022-01-06T16:30:00;25;absence;;false;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;TD;90
+2022-01-06T16:30:00;54;absence;;true;false;Enseignant001;R1.09 Introduction à l'économie durable et numérique;TD;90
+2022-01-09T08:30:00;13;absence;;false;false;Enseignant001;S1.06 Découverte de l'environnement économique et écologique;PROJET;240
+2022-01-09T13:30:00;13;absence;;false;false;Enseignant001;S1.06 Découverte de l'environnement économique et écologique;PROJET;270
+2022-01-12T08:50:00;8;absence;;true;false;Enseignant005;R1.03 Introduction à l'architecture des ordinateurs;EVALUATION;180
+2022-01-12T09:00:00;17;absence;;false;false;Enseignant011;R1.05 Introduction aux bases de données et SQL;TP;180
+2022-01-12T09:00:00;28;absence;;false;false;Enseignant008;R1.05 Introduction aux bases de données et SQL;TD;180
+2022-01-12T13:00:00;8;absence;;true;false;Enseignant011;R1.05 Introduction aux bases de données et SQL;TP;180
+2022-01-23T09:00:00;32;absence;;true;false;Enseignant004;R2.10 Introduction à la Gestion des systèmes d'information;CM;120
+2022-01-24T08:00:00;13;absence;;false;false;Enseignant004;R2.10 Introduction à la Gestion des systèmes d'information;TP;180
+2022-01-24T09:30:00;32;absence;;true;false;Enseignant006;R2.01 Développement orienté objets;TD;90
+2022-01-24T11:00:00;8;retard;30;false;true;Enseignant006;R2.01 Développement orienté objets;TD;90
+2022-01-24T13:50:00;32;absence;;true;false;Enseignant001;R2.10 Introduction à la Gestion des systèmes d'information;CM;60
+2022-01-24T15:00:00;32;absence;;true;false;Enseignant001;R2.10 Introduction à la Gestion des systèmes d'information;TD;90
+2022-01-25T08:20:00;27;absence;;false;false;Enseignant002;R2.07 Graphes;TD;90
+2022-01-25T09:00:00;32;absence;;true;false;Enseignant006;R2.01 Développement orienté objets;TD;90
+2022-01-25T11:00:00;27;absence;;false;false;Enseignant006;R2.01 Développement orienté objets;TD;90
+2022-01-25T13:30:00;32;absence;;true;false;Enseignant001;R2.11 Introduction au Droit;TD;90
+2022-01-25T15:00:00;32;absence;;true;false;Enseignant009;R2.02 Développement d'applications avec IHM;TD;180
+2022-01-26T09:00:00;6;absence;;false;false;Enseignant004;R2.10 Introduction à la Gestion des systèmes d'information;TP;120
+2022-01-26T09:00:00;32;absence;;true;false;Enseignant004;R2.10 Introduction à la Gestion des systèmes d'information;TP;120
+2022-01-26T13:30:00;32;absence;;true;false;Enseignant005;R2.04 Communication et fonctionnement bas niveau;TP;180
+2022-01-27T09:00:00;2;absence;;false;false;Enseignant012;R2.13 Communication technique;TD;180
+2022-01-27T09:00:00;32;absence;;true;false;Enseignant012;R2.13 Communication technique;TD;180
+2022-02-02T09:00:00;33;absence;;false;false;Enseignant012;R2.13 Communication technique;TD;90
+2022-02-03T08:00:00;2;absence;;false;false;Enseignant004;R2.10 Introduction à la Gestion des systèmes d'information;TP;180
+2022-02-03T09:30:00;21;absence;;false;false;Enseignant006;R2.01 Développement orienté objets;TD;90
+2022-02-03T11:00:00;2;absence;;false;false;Enseignant006;R2.01 Développement orienté objets;TD;90
+2022-02-03T11:00:00;5;absence;;false;false;Enseignant006;R2.01 Développement orienté objets;TD;90
+2022-02-03T15:00:00;5;absence;;false;false;Enseignant002;R2.07 Graphes;TD;90
+2022-02-10T13:30:00;8;absence;;false;true;Enseignant006;R2.01 Développement orienté objets;TD;90
+2022-02-10T15:00:00;8;absence;;false;true;Enseignant007;R2.12 Anglais;TD;90
+2022-02-27T15:00:00;32;absence;;true;false;Enseignant007;R2.12 Anglais;TD;90
+2022-02-27T16:30:00;32;absence;;true;false;Enseignant008;R2.06 Exploitation d'une base de données;TD;90
+2022-03-03T09:00:00;21;absence;;false;false;Enseignant008;R2.06 Exploitation d'une base de données;TD;180
+2022-03-06T08:00:00;8;absence;;true;false;Enseignant013;R2.14 Projet Professionnel et Personnel;TP;90
+2022-03-06T09:30:00;8;absence;;true;true;Enseignant006;R2.01 Développement orienté objets;TD;90
+2022-03-06T11:00:00;8;absence;;true;true;Enseignant002;R2.07 Graphes;TD;90
+2022-03-07T09:00:00;2;absence;;false;true;Enseignant002;R2.07 Graphes;TD;90
+2022-03-07T10:30:00;2;absence;;false;true;Enseignant007;R2.12 Anglais;TD;90
+2022-03-08T08:30:00;33;absence;;false;false;Enseignant006;R2.01 Développement orienté objets;TD;90
+2022-03-08T10:00:00;33;absence;;false;false;Enseignant001;R2.13 Communication technique;TD;90
+2022-03-09T09:00:00;8;absence;;false;true;Enseignant012;R2.13 Communication technique;TD;180
+2022-03-09T13:30:00;29;absence;;false;false;Enseignant004;R2.10 Introduction à la Gestion des systèmes d'information;TP;180
+2022-03-10T08:00:00;42;absence;;false;false;Enseignant014;R2.02 Développement d'applications avec IHM;CM;60
+2022-03-10T13:30:00;30;absence;;true;false;Enseignant002;R2.07 Graphes;TD;90
+2022-03-10T13:30:00;42;absence;;false;false;Enseignant007;R2.12 Anglais;TD;60
+2022-03-13T08:30:00;8;absence;;false;true;Enseignant006;R2.01 Développement orienté objets;TD;90
+2022-03-13T08:30:00;17;absence;;false;false;Enseignant002;R2.07 Graphes;TD;90
+2022-03-13T08:30:00;34;absence;;true;false;Enseignant002;R2.07 Graphes;TD;90
+2022-03-13T09:30:00;30;absence;;false;false;Enseignant008;R2.06 Exploitation d'une base de données;TD;180
+2022-03-13T10:00:00;17;absence;;false;false;Enseignant006;R2.01 Développement orienté objets;TD;90
+2022-03-13T10:00:00;34;absence;;true;false;Enseignant006;R2.01 Développement orienté objets;TD;90
+2022-03-13T13:30:00;34;absence;;true;false;Enseignant002;R2.07 Graphes;TD;90
+2022-03-14T09:00:00;21;absence;;false;false;Enseignant001;R2.13 Communication technique;TD;90
+2022-03-14T09:00:00;51;absence;;false;true;Enseignant001;R2.13 Communication technique;TD;90
+2022-03-14T10:30:00;17;absence;;false;false;Enseignant001;R2.13 Communication technique;TD;90
+2022-03-14T10:30:00;51;absence;;false;true;Enseignant002;R2.07 Graphes;TD;90
+2022-03-14T13:30:00;40;absence;;true;false;Enseignant001;R2.14 Projet Professionnel et Personnel;TD;90
+2022-03-14T15:00:00;40;absence;;true;false;Enseignant007;R2.12 Anglais;EVALUATION;90
+2022-03-16T13:30:00;40;absence;;true;false;Enseignant004;R2.10 Introduction à la Gestion des systèmes d'information;TP;90
+2022-03-16T13:30:00;56;absence;;true;false;Enseignant008;R2.06 Exploitation d'une base de données;TD;180
+2022-03-17T09:00:00;8;absence;;false;true;Enseignant002;R2.07 Graphes;TD;90
+2022-03-17T10:30:00;8;absence;;false;true;Enseignant002;R2.07 Graphes;TD;90
+2022-03-17T13:30:00;12;absence;;false;false;Enseignant014;R2.02 Développement d'applications avec IHM;TD;90
+2022-03-17T15:30:00;14;absence;;false;false;Enseignant014;R2.02 Développement d'applications avec IHM;TD;90
+2022-03-17T15:30:00;40;absence;;true;false;Enseignant014;R2.02 Développement d'applications avec IHM;TD;90
+2022-03-20T08:00:00;8;absence;;false;true;Enseignant014;R2.02 Développement d'applications avec IHM;TD;120
+2022-03-20T09:00:00;22;absence;;false;false;Enseignant005;R2.04 Communication et fonctionnement bas niveau;TP;180
+2022-03-20T09:30:00;6;absence;;false;false;Enseignant004;R2.10 Introduction à la Gestion des systèmes d'information;TP;180
+2022-03-20T09:30:00;17;absence;;false;true;Enseignant004;R2.10 Introduction à la Gestion des systèmes d'information;TP;180
+2022-03-20T09:30:00;25;absence;;false;false;Enseignant004;R2.10 Introduction à la Gestion des systèmes d'information;TP;180
+2022-03-20T09:30:00;32;absence;;true;false;Enseignant004;R2.10 Introduction à la Gestion des systèmes d'information;TP;180
+2022-03-20T10:30:00;8;absence;;false;false;Enseignant002;R2.07 Graphes;TP;90
+2022-03-20T13:30:00;2;absence;;false;true;Enseignant005;R2.04 Communication et fonctionnement bas niveau;TP;180
+2022-03-20T13:30:00;6;absence;;false;false;Enseignant005;R2.04 Communication et fonctionnement bas niveau;TP;180
+2022-03-20T13:30:00;17;absence;;false;true;Enseignant005;R2.04 Communication et fonctionnement bas niveau;TP;180
+2022-03-20T13:30:00;22;absence;;false;false;Enseignant004;R2.10 Introduction à la Gestion des systèmes d'information;TP;180
+2022-03-20T13:30:00;32;absence;;true;false;Enseignant005;R2.04 Communication et fonctionnement bas niveau;TP;180
+2022-03-20T16:50:00;2;absence;;false;true;Enseignant008;R2.06 Exploitation d'une base de données;TD;90
+2022-03-20T16:50:00;6;absence;;false;false;Enseignant008;R2.06 Exploitation d'une base de données;TD;90
+2022-03-20T16:50:00;17;absence;;false;true;Enseignant008;R2.06 Exploitation d'une base de données;TD;90
+2022-03-20T16:50:00;22;absence;;false;false;Enseignant008;R2.06 Exploitation d'une base de données;TD;90
+2022-03-20T16:50:00;32;absence;;true;false;Enseignant008;R2.06 Exploitation d'une base de données;TD;90
+2022-03-22T08:30:00;33;absence;;false;false;Enseignant001;R2.13 Communication technique;TD;90
+2022-03-22T08:30:00;51;retard;60;false;true;Enseignant001;R2.13 Communication technique;TD;90
+2022-03-22T10:00:00;33;absence;;false;false;Enseignant008;R2.06 Exploitation d'une base de données;TD;90
+2022-03-24T08:30:00;32;retard;40;false;true;Enseignant001;S2.05 Gestion d'un projet;CM;60
+2022-03-27T08:00:00;27;absence;;false;false;Enseignant015;R2.01 Développement orienté objets;TP;180
+2022-03-27T08:00:00;33;absence;;true;false;Enseignant015;R2.01 Développement orienté objets;TP;180
+2022-03-27T09:30:00;14;absence;;false;false;Enseignant007;R2.12 Anglais;TD;90
+2022-03-27T09:30:00;32;absence;;true;false;Enseignant007;R2.12 Anglais;TD;90
+2022-03-27T13:30:00;32;absence;;true;false;Enseignant002;R2.07 Graphes;TP;90
+2022-03-27T15:00:00;32;absence;;true;false;Enseignant002;R2.07 Graphes;TP;90
+2022-03-27T17:00:00;32;absence;;true;false;Enseignant001;R2.11 Introduction au Droit;CM;60
+2022-03-27T17:00:00;33;absence;;true;false;Enseignant001;R2.11 Introduction au Droit;CM;60
+2022-03-29T08:00:00;32;absence;;true;false;Enseignant006;R2.01 Développement orienté objets;TP;180
+2022-03-29T16:30:00;32;absence;;true;false;Enseignant007;R2.12 Anglais;TD;90
+2022-03-29T16:30:00;34;absence;;true;false;Enseignant007;R2.12 Anglais;TD;90
+2022-03-30T09:00:00;8;absence;;false;false;Enseignant002;R2.07 Graphes;TP;90
+2022-03-30T09:00:00;32;absence;;true;false;Enseignant008;R2.06 Exploitation d'une base de données;TP;180
+2022-03-30T10:30:00;8;absence;;false;false;Enseignant002;R2.07 Graphes;TP;90
+2022-03-31T08:00:00;8;absence;;false;true;Enseignant014;R2.02 Développement d'applications avec IHM;TD;120
+2022-03-31T08:00:00;18;absence;;false;false;Enseignant014;R2.02 Développement d'applications avec IHM;TD;120
+2022-03-31T10:00:00;8;absence;;false;true;Enseignant014;R2.02 Développement d'applications avec IHM;TD;120
+2022-03-31T10:00:00;18;absence;;false;false;Enseignant014;R2.02 Développement d'applications avec IHM;TD;120
+2022-04-03T16:50:00;51;absence;;false;true;Enseignant001;R2.11 Introduction au Droit;CM;60
+2022-04-04T08:00:00;8;absence;;false;true;Enseignant005;R2.04 Communication et fonctionnement bas niveau;CM;60
+2022-04-04T08:00:00;30;absence;;false;false;Enseignant005;R2.04 Communication et fonctionnement bas niveau;CM;60
+2022-04-04T09:00:00;30;absence;;false;false;Enseignant007;R2.04 Communication et fonctionnement bas niveau;TD;90
+2022-04-05T08:00:00;13;absence;;false;false;Enseignant015;R2.01 Développement orienté objets;TP;180
+2022-04-07T09:00:00;16;absence;;false;false;Enseignant008;R2.06 Exploitation d'une base de données;TD;180
+2022-04-11T09:30:00;51;absence;;true;false;Enseignant005;R2.04 Communication et fonctionnement bas niveau;TD;180
+2022-04-11T09:30:00;54;absence;;true;false;Enseignant002;R2.08 Outils numériques pour les statistiques descriptives;TD;90
+2022-04-11T11:00:00;54;absence;;true;false;Enseignant002;R2.08 Outils numériques pour les statistiques descriptives;TD;90
+2022-04-11T13:50:00;51;absence;;true;false;Enseignant002;R2.08 Outils numériques pour les statistiques descriptives;TD;90
+2022-04-11T15:20:00;54;absence;;true;false;Enseignant005;R2.04 Communication et fonctionnement bas niveau;TD;180
+2022-04-12T08:00:00;8;absence;;false;true;Enseignant006;R2.03 Qualité de développement;TD;90
+2022-04-12T08:00:00;21;absence;;true;false;Enseignant006;R2.03 Qualité de développement;TD;90
+2022-04-12T08:00:00;51;absence;;true;false;Enseignant006;R2.03 Qualité de développement;TD;90
+2022-04-12T08:00:00;54;absence;;true;false;Enseignant005;R2.04 Communication et fonctionnement bas niveau;TD;120
+2022-04-12T09:30:00;21;absence;;true;false;Enseignant007;R2.12 Anglais;TP;90
+2022-04-12T09:30:00;51;absence;;true;false;Enseignant008;R2.06 Exploitation d'une base de données;TP;180
+2022-04-12T10:00:00;54;absence;;true;false;Enseignant006;R2.03 Qualité de développement;TD;90
+2022-04-12T11:00:00;21;absence;;true;false;Enseignant013;R2.14 Projet Professionnel et Personnel;TP;90
+2022-04-12T15:30:00;54;absence;;true;false;Enseignant013;R2.14 Projet Professionnel et Personnel;TP;60
+2022-04-12T16:30:00;51;absence;;true;false;Enseignant013;R2.14 Projet Professionnel et Personnel;TP;90
+2022-04-14T09:00:00;8;absence;;false;true;Enseignant002;R2.08 Outils numériques pour les statistiques descriptives;TD;90
+2022-04-14T09:00:00;33;absence;;false;true;Enseignant002;R2.08 Outils numériques pour les statistiques descriptives;TD;90
+2022-04-14T09:00:00;51;absence;;true;false;Enseignant002;R2.08 Outils numériques pour les statistiques descriptives;TD;90
+2022-04-14T09:00:00;52;absence;;true;false;Enseignant002;R2.08 Outils numériques pour les statistiques descriptives;TD;90
+2022-04-14T09:30:00;2;absence;;false;false;Enseignant008;R2.06 Exploitation d'une base de données;TP;180
+2022-04-14T13:30:00;33;absence;;false;false;Enseignant007;R2.12 Anglais;TP;90
+2022-04-14T13:30:00;51;absence;;true;false;Enseignant007;R2.12 Anglais;TP;90
+2022-04-14T13:30:00;52;absence;;true;false;Enseignant007;R2.12 Anglais;TP;90
+2022-05-03T08:30:00;8;absence;;false;true;Enseignant002;R2.08 Outils numériques pour les statistiques descriptives;TD;90
+2022-05-03T11:30:00;8;absence;;false;true;Enseignant001;R2.11 Introduction au Droit;CM;60
+2022-05-03T14:00:00;8;absence;;false;true;Enseignant016;R2.01 Développement orienté objets;TD;90
+2022-05-03T14:00:00;51;absence;;false;true;Enseignant016;R2.01 Développement orienté objets;TD;90
+2022-05-04T14:00:00;29;absence;;false;false;Enseignant016;R2.01 Développement orienté objets;TD;90
+2022-05-11T08:00:00;8;absence;;true;false;Enseignant001;R2.11 Introduction au Droit;CM;60
+2022-05-11T08:00:00;34;absence;;false;false;Enseignant001;R2.11 Introduction au Droit;CM;60
+2022-05-11T08:00:00;52;absence;;true;false;Enseignant001;R2.11 Introduction au Droit;CM;60
+2022-05-11T09:20:00;52;absence;;true;false;Enseignant007;R2.12 Anglais;TP;90
+2022-05-11T10:50:00;8;absence;;true;false;Enseignant007;R2.12 Anglais;TP;90
+2022-05-11T13:30:00;8;absence;;true;false;Enseignant001;R2.11 Introduction au Droit;TD;90
+2022-05-11T15:00:00;8;absence;;true;false;Enseignant005;R2.05 Introduction aux services réseaux;TP;180
+2022-05-11T15:00:00;52;absence;;true;false;Enseignant008;R2.06 Exploitation d'une base de données;TP;180
+2022-05-11T16:30:00;31;absence;;false;false;Enseignant001;R2.11 Introduction au Droit;TD;90
+2022-05-11T16:30:00;43;absence;;false;false;Enseignant001;R2.11 Introduction au Droit;TD;90
+2022-05-12T09:00:00;6;absence;;true;false;Enseignant012;R2.13 Communication technique;TD;180
+2022-05-12T09:00:00;22;absence;;true;false;Enseignant012;R2.13 Communication technique;TD;180
+2022-05-12T09:00:00;32;absence;;true;false;Enseignant012;R2.13 Communication technique;TD;180
+2022-05-12T09:00:00;52;absence;;true;false;Enseignant005;R2.05 Introduction aux services réseaux;TP;180
+2022-05-12T13:00:00;8;absence;;true;false;Enseignant012;R2.13 Communication technique;TD;180
+2022-05-12T13:00:00;52;absence;;true;false;Enseignant012;R2.13 Communication technique;TD;180
+2022-05-12T14:00:00;6;absence;;true;false;Enseignant014;R2.02 Développement d'applications avec IHM;TD;120
+2022-05-12T14:00:00;22;absence;;true;false;Enseignant014;R2.02 Développement d'applications avec IHM;TD;120
+2022-05-12T14:00:00;32;absence;;true;false;Enseignant014;R2.02 Développement d'applications avec IHM;TD;120
+2022-05-12T16:00:00;6;absence;;true;false;Enseignant001;R2.11 Introduction au Droit;TD;90
+2022-05-12T16:00:00;8;absence;;true;false;Enseignant014;R2.02 Développement d'applications avec IHM;TD;120
+2022-05-12T16:00:00;22;absence;;true;false;Enseignant001;R2.11 Introduction au Droit;TD;90
+2022-05-12T16:00:00;32;absence;;true;false;Enseignant001;R2.11 Introduction au Droit;TD;90
+2022-05-12T16:00:00;52;absence;;true;false;Enseignant014;R2.02 Développement d'applications avec IHM;TD;120
+2022-05-12T16:30:00;17;absence;;true;false;Enseignant001;R2.11 Introduction au Droit;TD;60
+2022-05-15T13:30:00;32;absence;;false;true;Enseignant002;R2.08 Outils numériques pour les statistiques descriptives;TP;90
+2022-05-16T08:00:00;6;absence;;true;false;Enseignant007;R2.12 Anglais;TP;90
+2022-05-16T09:30:00;27;retard;20;false;true;Enseignant007;R2.12 Anglais;TP;90
+2022-05-16T09:30:00;51;absence;;false;false;Enseignant007;R2.12 Anglais;TP;90
+2022-05-16T13:30:00;51;absence;;false;false;Enseignant006;R2.03 Qualité de développement;TP;90
+2022-05-16T16:30:00;28;absence;;false;false;Enseignant001;R2.11 Introduction au Droit;TD;90
+2022-05-17T08:00:00;8;absence;;false;true;Enseignant014;R2.02 Développement d'applications avec IHM;TD;120
+2022-05-17T08:00:00;56;absence;;false;false;Enseignant014;R2.02 Développement d'applications avec IHM;TD;120
+2022-05-17T10:00:00;56;absence;;false;false;Enseignant007;R2.12 Anglais;EVALUATION;180
+2022-05-22T08:00:00;6;absence;;true;false;Enseignant005;R2.05 Introduction aux services réseaux;TP;180
+2022-05-22T08:00:00;8;absence;;true;false;Enseignant006;R2.03 Qualité de développement;TP;180
+2022-05-22T08:00:00;18;absence;;false;false;Enseignant006;R2.03 Qualité de développement;TP;180
+2022-05-22T11:00:00;6;absence;;true;false;Enseignant001;R2.14 Projet Professionnel et Personnel;TD;90
+2022-05-22T11:00:00;8;absence;;true;true;Enseignant002;R2.09 Méthodes numériques;TD;90
+2022-05-22T11:00:00;14;absence;;true;false;Enseignant001;R2.14 Projet Professionnel et Personnel;TD;90
+2022-05-22T11:00:00;18;absence;;false;false;Enseignant002;R2.09 Méthodes numériques;TD;90
+2022-05-22T11:00:00;33;absence;;true;false;Enseignant002;R2.09 Méthodes numériques;TD;90
+2022-05-22T14:00:00;8;absence;;true;true;Enseignant001;R2.14 Projet Professionnel et Personnel;TD;90
+2022-05-22T14:00:00;14;absence;;true;false;Enseignant005;R2.05 Introduction aux services réseaux;TP;180
+2022-05-22T14:00:00;33;absence;;true;false;Enseignant001;R2.14 Projet Professionnel et Personnel;TD;90
+2022-05-22T15:00:00;6;absence;;true;false;Enseignant008;R2.06 Exploitation d'une base de données;TP;180
+2022-05-22T15:00:00;34;absence;;false;false;Enseignant008;R2.06 Exploitation d'une base de données;TP;180
+2022-05-22T15:30:00;8;absence;;true;true;Enseignant017;R2.14 Projet Professionnel et Personnel;TD;150
+2022-05-22T15:30:00;33;absence;;true;false;Enseignant017;R2.14 Projet Professionnel et Personnel;TD;150
+2022-05-23T08:00:00;33;absence;;true;false;Enseignant005;R2.05 Introduction aux services réseaux;TP;90
+2022-05-23T09:30:00;8;absence;;true;false;Enseignant007;R2.12 Anglais;TP;90
+2022-05-23T09:30:00;20;absence;;false;false;Enseignant007;R2.12 Anglais;TP;90
+2022-05-23T09:30:00;56;absence;;false;false;Enseignant007;R2.12 Anglais;TP;90
+2022-05-23T11:00:00;8;absence;;true;true;Enseignant002;R2.09 Méthodes numériques;TD;90
+2022-05-23T11:00:00;33;absence;;true;false;Enseignant002;R2.09 Méthodes numériques;TD;90
+2022-05-24T08:00:00;37;absence;;false;false;Enseignant007;R2.12 Anglais;TP;90
+2022-05-24T09:30:00;37;absence;;false;false;Enseignant001;R2.11 Introduction au Droit;TD;90
+2022-05-24T09:30:00;52;absence;;true;false;Enseignant001;R2.11 Introduction au Droit;TD;90
+2022-05-24T11:00:00;37;absence;;false;false;Enseignant002;R2.09 Méthodes numériques;TD;90
+2022-05-26T13:30:00;29;absence;;false;false;Enseignant014;R2.02 Développement d'applications avec IHM;TD;90
+2022-05-30T09:00:00;8;absence;;false;true;Enseignant002;R2.09 Méthodes numériques;TD;90
+2022-05-30T09:00:00;12;absence;;false;true;Enseignant002;R2.09 Méthodes numériques;TD;90
+2022-05-30T10:30:00;8;absence;;false;true;Enseignant001;R2.11 Introduction au Droit;TD;90
+2022-05-30T10:30:00;12;absence;;false;true;Enseignant001;R2.11 Introduction au Droit;TD;90
+2022-05-31T08:00:00;6;absence;;true;false;Enseignant006;R2.03 Qualité de développement;TP;180
+2022-05-31T08:00:00;42;absence;;false;false;Enseignant015;R2.03 Qualité de développement;TP;180
+2022-06-01T13:30:00;8;absence;;false;false;Enseignant002;R2.09 Méthodes numériques;TD;90
+2022-06-01T13:30:00;51;absence;;true;false;Enseignant002;R2.09 Méthodes numériques;TD;90
+2022-06-01T15:00:00;8;absence;;false;false;Enseignant002;R2.09 Méthodes numériques;EVALUATION;90
+2022-06-01T15:00:00;51;absence;;true;false;Enseignant002;R2.09 Méthodes numériques;EVALUATION;90
+2022-06-01T16:30:00;51;absence;;true;false;Enseignant007;R1.10 Anglais;TP;90
+2022-06-02T08:00:00;51;absence;;true;false;Enseignant015;R1.10 Anglais;TP;180
+2022-06-02T09:00:00;28;absence;;false;false;Enseignant008;R2.06 Exploitation d'une base de données;TP;90
+2022-06-02T09:00:00;42;absence;;false;false;Enseignant008;R2.06 Exploitation d'une base de données;TP;180
+2022-06-05T08:00:00;8;absence;;true;false;Enseignant006;R2.03 Qualité de développement;TP;180
+2022-06-05T08:00:00;51;absence;;true;false;Enseignant015;R2.03 Qualité de développement;TP;180
+2022-06-05T09:00:00;14;absence;;false;false;Enseignant002;R2.09 Méthodes numériques;TP;180
+2022-06-05T11:00:00;8;absence;;true;false;Enseignant001;R2.11 Introduction au Droit;TD;90
+2022-06-05T11:00:00;51;absence;;true;false;Enseignant001;R2.11 Introduction au Droit;TD;90
+2022-06-05T14:00:00;51;absence;;true;false;Enseignant002;R2.09 Méthodes numériques;TP;180
+2022-06-05T15:00:00;8;absence;;true;false;Enseignant005;R2.05 Introduction aux services réseaux;TP;180
+2022-06-05T17:00:00;8;absence;;true;false;Enseignant001;R2.11 Introduction au Droit;TD;90
+2022-06-05T17:00:00;51;absence;;true;false;Enseignant001;R2.11 Introduction au Droit;TD;90
+2022-06-06T09:00:00;14;absence;;false;true;Enseignant015;R2.03 Qualité de développement;TP;180
+2022-06-06T13:30:00;15;absence;;false;false;Enseignant001;R2.14 Projet Professionnel et Personnel;TD;90
+2022-06-06T16:30:00;14;absence;;false;true;Enseignant001;R2.14 Projet Professionnel et Personnel;TD;90
+2022-06-08T16:30:00;27;absence;;true;false;Enseignant007;R2.12 Anglais;TP;90
+2022-06-08T16:30:00;41;absence;;false;true;Enseignant007;R2.12 Anglais;TP;90
+2022-06-09T08:30:00;14;absence;;false;true;Enseignant015;R2.03 Qualité de développement;TP;180
+2022-06-09T13:00:00;14;absence;;false;true;Enseignant012;R2.13 Communication technique;TD;90
+2022-06-14T09:30:00;32;absence;;false;false;Enseignant007;R2.12 Anglais;TP;90
+2022-06-14T11:00:00;17;absence;;false;false;Enseignant013;R2.14 Projet Professionnel et Personnel;TP;90
+2022-06-14T11:00:00;32;absence;;false;false;Enseignant013;R2.14 Projet Professionnel et Personnel;TP;90
+2022-06-14T13:30:00;13;absence;;false;false;Enseignant007;R2.12 Anglais;TP;90
+2022-06-14T13:30:00;42;absence;;false;false;Enseignant007;R2.12 Anglais;TP;90
+2022-06-14T15:00:00;3;absence;;false;false;Enseignant007;R2.12 Anglais;TP;90
+2022-06-14T15:00:00;13;absence;;false;false;Enseignant013;R2.14 Projet Professionnel et Personnel;TP;90
+2022-06-14T15:00:00;15;absence;;false;false;Enseignant013;R2.14 Projet Professionnel et Personnel;TP;90
+2022-06-14T15:00:00;42;absence;;false;false;Enseignant013;R2.14 Projet Professionnel et Personnel;TP;90
+2022-06-14T15:00:00;52;absence;;false;false;Enseignant013;R2.14 Projet Professionnel et Personnel;TP;90
+2022-06-14T16:30:00;5;absence;;false;false;Enseignant007;R2.12 Anglais;TP;90
+2022-06-14T16:30:00;6;absence;;false;false;Enseignant013;R2.14 Projet Professionnel et Personnel;TP;90
+2022-06-14T16:30:00;17;absence;;false;false;Enseignant013;R2.14 Projet Professionnel et Personnel;TP;90
+2022-06-14T16:30:00;28;absence;;false;false;Enseignant007;R2.12 Anglais;TP;90
+2022-06-14T16:30:00;31;absence;;false;false;Enseignant013;R2.14 Projet Professionnel et Personnel;TP;90
+2022-06-14T16:30:00;32;absence;;false;false;Enseignant013;R2.14 Projet Professionnel et Personnel;TP;90
+2022-06-14T16:30:00;34;absence;;false;false;Enseignant013;R2.14 Projet Professionnel et Personnel;TP;90
+2022-06-14T16:30:00;42;absence;;true;false;Enseignant007;R2.12 Anglais;TP;90

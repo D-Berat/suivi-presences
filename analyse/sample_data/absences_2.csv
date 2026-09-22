@@ -1,0 +1,319 @@
+date;code_etu;nature;duree_retard;justifiee;excusee;enseignant;cours;type;duree_cours
+2022-09-06T08:30:00;31;absence;;true;false;Enseignant006;R3.04 Qualité et Développement;TD;180
+2022-09-07T13:30:00;31;absence;;false;true;Enseignant005;R3.05 Programmation système;TP;180
+2022-09-07T16:30:00;31;absence;;false;true;Enseignant001;R3.13 Communication professionnelle;TD;90
+2022-09-08T09:00:00;23;absence;;true;false;Enseignant003;R3.01 Développement web;TD;180
+2022-09-09T09:00:00;14;absence;;false;true;Enseignant003;R3.01 Développement web;TD;180
+2022-09-09T09:00:00;21;absence;;true;false;Enseignant003;R3.01 Développement web;TD;180
+2022-09-12T09:00:00;8;absence;;false;false;Enseignant008;R3.07 SQL dans un langage de programmation;TD;180
+2022-09-13T10:00:00;34;absence;;true;false;Enseignant001;R3.13 Communication professionnelle;TD;90
+2022-09-14T08:00:00;33;absence;;false;false;Enseignant005;R3.05 Programmation système;CM;60
+2022-09-15T08:00:00;28;absence;;false;false;Enseignant005;R3.05 Programmation système;TP;180
+2022-09-15T09:30:00;3;absence;;false;false;Enseignant006;R3.04 Qualité et Développement;TD;180
+2022-09-16T08:00:00;33;absence;;false;false;Enseignant005;R3.05 Programmation système;TP;240
+2022-09-16T14:00:00;33;absence;;false;false;Enseignant007;R3.12 Anglais;TD;90
+2022-09-19T09:00:00;17;absence;;true;false;Enseignant006;R3.04 Qualité et Développement;TD;90
+2022-09-19T13:30:00;17;absence;;true;false;Enseignant003;R3.01 Développement web;TD;180
+2022-09-20T09:00:00;8;absence;;true;false;Enseignant007;R3.12 Anglais;TD;90
+2022-09-20T09:00:00;17;absence;;true;false;Enseignant007;R3.12 Anglais;TD;90
+2022-09-20T10:30:00;8;absence;;true;false;Enseignant016;R3.03 Analyse;TD;90
+2022-09-20T10:30:00;17;absence;;true;false;Enseignant016;R3.03 Analyse;TD;90
+2022-09-20T13:00:00;8;absence;;true;false;Enseignant018;R3.08 Probabilités;TD;180
+2022-09-20T13:00:00;17;absence;;true;false;Enseignant018;R3.08 Probabilités;TD;180
+2022-09-20T16:00:00;8;absence;;true;false;Enseignant007;R3.12 Anglais;TD;90
+2022-09-20T16:00:00;17;absence;;true;false;Enseignant007;R3.12 Anglais;TD;90
+2022-09-21T11:00:00;8;absence;;true;false;Enseignant001;R3.13 Communication professionnelle;TD;90
+2022-09-21T13:30:00;8;absence;;true;false;Enseignant005;R3.05 Programmation système;TP;180
+2022-09-21T16:30:00;8;absence;;true;false;Enseignant001;R3.13 Communication professionnelle;TD;90
+2022-09-22T08:30:00;8;absence;;true;false;Enseignant003;R3.01 Développement web;TD;180
+2022-09-23T08:00:00;3;absence;;false;false;Enseignant001;R3.13 Communication professionnelle;TD;90
+2022-09-23T09:30:00;9;absence;;false;false;Enseignant001;R3.13 Communication professionnelle;TD;90
+2022-09-23T09:30:00;14;absence;;true;false;Enseignant001;R3.13 Communication professionnelle;TD;90
+2022-09-23T13:30:00;14;absence;;true;false;Enseignant003;R3.01 Développement web;TD;180
+2022-09-26T14:20:00;36;absence;;false;false;Enseignant001;R3.13 Communication professionnelle;TP;40
+2022-10-05T09:30:00;13;absence;;false;false;Enseignant006;R3.04 Qualité et Développement;TD;60
+2022-10-05T09:30:00;36;absence;;false;false;Enseignant006;R3.04 Qualité et Développement;TD;60
+2022-10-05T13:30:00;21;absence;;true;false;Enseignant001;R3.13 Communication professionnelle;TP;90
+2022-10-07T09:00:00;29;absence;;false;true;Enseignant002;R3.09 Cryptographie et sécurité;TD;90
+2022-10-07T09:00:00;40;absence;;false;true;Enseignant002;R3.09 Cryptographie et sécurité;TD;90
+2022-10-13T09:00:00;8;absence;;false;false;Enseignant006;R3.04 Qualité et Développement;TD;180
+2022-10-13T13:30:00;8;absence;;false;false;Enseignant002;R3.09 Cryptographie et sécurité;TD;90
+2022-10-13T15:30:00;8;absence;;false;false;Enseignant003;R3.01 Développement web;TP;180
+2022-10-13T16:30:00;13;retard;15;false;false;Enseignant007;R3.12 Anglais;TD;90
+2022-10-13T16:30:00;30;retard;15;false;false;Enseignant007;R3.12 Anglais;TD;90
+2022-10-13T16:30:00;36;retard;15;false;false;Enseignant007;R3.12 Anglais;TD;90
+2022-10-17T09:30:00;4;retard;55;false;false;Enseignant007;R3.12 Anglais;TD;90
+2022-10-17T09:30:00;6;absence;;true;false;Enseignant007;R3.12 Anglais;TD;90
+2022-10-17T09:30:00;14;absence;;true;false;Enseignant001;R3.11 Droit des contrats et du numérique;TP;90
+2022-10-17T09:30:00;32;absence;;true;false;Enseignant007;R3.12 Anglais;TD;90
+2022-10-17T09:30:00;52;absence;;true;false;Enseignant007;R3.12 Anglais;TD;90
+2022-10-17T09:30:00;54;absence;;true;false;Enseignant007;R3.12 Anglais;TD;90
+2022-10-17T11:00:00;6;absence;;true;false;Enseignant001;R3.11 Droit des contrats et du numérique;TP;90
+2022-10-17T11:00:00;14;absence;;true;false;Enseignant007;R3.12 Anglais;TD;90
+2022-10-17T11:00:00;27;absence;;true;false;Enseignant005;R3.05 Programmation système;TP;90
+2022-10-17T11:00:00;32;absence;;true;false;Enseignant005;R3.05 Programmation système;TP;90
+2022-10-17T11:00:00;54;absence;;true;false;Enseignant005;R3.05 Programmation système;TP;90
+2022-10-17T14:00:00;6;absence;;true;false;Enseignant007;R3.12 Anglais;TD;90
+2022-10-17T14:00:00;14;absence;;true;false;Enseignant005;R3.05 Programmation système;TP;90
+2022-10-17T14:00:00;27;absence;;true;false;Enseignant007;R3.12 Anglais;TD;90
+2022-10-17T14:00:00;32;absence;;true;false;Enseignant007;R3.12 Anglais;TD;90
+2022-10-17T14:00:00;52;absence;;true;false;Enseignant007;R3.12 Anglais;TD;90
+2022-10-17T14:00:00;54;absence;;true;false;Enseignant007;R3.12 Anglais;TD;90
+2022-10-17T15:30:00;6;absence;;true;false;Enseignant005;R3.05 Programmation système;TP;90
+2022-10-17T15:30:00;14;absence;;true;false;Enseignant007;R3.12 Anglais;TD;90
+2022-10-17T15:30:00;27;absence;;true;false;Enseignant001;R3.11 Droit des contrats et du numérique;TP;90
+2022-10-17T15:30:00;32;absence;;true;false;Enseignant001;R3.11 Droit des contrats et du numérique;TP;90
+2022-10-17T15:30:00;52;absence;;true;false;Enseignant005;R3.05 Programmation système;TP;90
+2022-10-17T15:30:00;54;absence;;true;false;Enseignant001;R3.11 Droit des contrats et du numérique;TP;90
+2022-10-18T09:00:00;14;absence;;true;false;Enseignant002;R3.09 Cryptographie et sécurité;TD;180
+2022-10-18T10:30:00;6;absence;;true;false;Enseignant010;R3.14 Projet Professionnel et Personnel;TD;90
+2022-10-18T10:30:00;17;absence;;false;false;Enseignant010;R3.14 Projet Professionnel et Personnel;TD;90
+2022-10-18T10:30:00;32;absence;;true;false;Enseignant010;R3.14 Projet Professionnel et Personnel;TD;90
+2022-10-18T10:30:00;33;absence;;false;false;Enseignant010;R3.14 Projet Professionnel et Personnel;TD;90
+2022-10-18T10:30:00;34;absence;;false;false;Enseignant010;R3.14 Projet Professionnel et Personnel;TD;90
+2022-10-18T13:00:00;14;absence;;true;false;Enseignant018;R3.08 Probabilités;TD;180
+2022-10-18T14:30:00;6;absence;;true;false;Enseignant001;R3.14 Projet Professionnel et Personnel;TD;90
+2022-10-18T14:30:00;32;absence;;true;false;Enseignant001;R3.14 Projet Professionnel et Personnel;TD;90
+2022-10-18T14:30:00;52;absence;;true;false;Enseignant001;R3.14 Projet Professionnel et Personnel;TD;90
+2022-10-18T14:30:00;54;absence;;true;false;Enseignant001;R3.14 Projet Professionnel et Personnel;TD;90
+2022-10-18T16:00:00;6;absence;;true;false;Enseignant018;R3.08 Probabilités;TD;180
+2022-10-18T16:00:00;14;absence;;true;false;Enseignant001;R3.14 Projet Professionnel et Personnel;TD;90
+2022-10-18T16:00:00;32;absence;;true;false;Enseignant018;R3.08 Probabilités;TD;180
+2022-10-18T16:00:00;52;absence;;true;false;Enseignant018;R3.08 Probabilités;TD;180
+2022-10-18T16:00:00;54;absence;;true;false;Enseignant018;R3.08 Probabilités;TD;180
+2022-10-19T08:00:00;14;absence;;true;false;Enseignant010;R3.14 Projet Professionnel et Personnel;TD;90
+2022-10-19T09:00:00;6;absence;;true;false;Enseignant005;R3.05 Programmation système;TP;180
+2022-10-19T09:00:00;32;absence;;true;false;Enseignant003;R3.01 Développement web;TP;180
+2022-10-19T09:00:00;52;absence;;true;false;Enseignant005;R3.05 Programmation système;TP;180
+2022-10-19T09:00:00;54;absence;;true;false;Enseignant003;R3.01 Développement web;TP;180
+2022-10-19T13:30:00;6;absence;;true;false;Enseignant003;R3.01 Développement web;TP;180
+2022-10-19T13:30:00;32;absence;;true;false;Enseignant005;R3.05 Programmation système;TP;180
+2022-10-19T13:30:00;52;absence;;true;false;Enseignant003;R3.01 Développement web;TP;180
+2022-10-19T13:30:00;54;absence;;true;false;Enseignant005;R3.05 Programmation système;TP;180
+2022-10-20T08:30:00;14;absence;;true;false;Enseignant003;R3.01 Développement web;TP;180
+2022-10-20T08:45:00;6;absence;;true;false;Enseignant002;R3.09 Cryptographie et sécurité;TD;180
+2022-10-20T08:45:00;52;absence;;true;false;Enseignant002;R3.09 Cryptographie et sécurité;TD;180
+2022-10-20T08:45:00;54;absence;;true;false;Enseignant002;R3.09 Cryptographie et sécurité;TD;180
+2022-10-20T13:00:00;6;absence;;true;false;Enseignant018;R3.08 Probabilités;TD;180
+2022-10-20T13:00:00;14;absence;;true;false;Enseignant005;R3.05 Programmation système;TP;180
+2022-10-20T13:00:00;52;absence;;true;false;Enseignant018;R3.08 Probabilités;TD;180
+2022-10-20T13:00:00;54;absence;;true;false;Enseignant018;R3.08 Probabilités;TD;180
+2022-10-20T16:00:00;14;absence;;true;false;Enseignant018;R3.08 Probabilités;TD;180
+2022-10-21T09:00:00;6;absence;;true;false;Enseignant011;R3.07 SQL dans un langage de programmation;TP;180
+2022-10-21T09:00:00;52;absence;;true;false;Enseignant011;R3.07 SQL dans un langage de programmation;TP;180
+2022-10-21T09:00:00;54;absence;;true;false;Enseignant008;R3.07 SQL dans un langage de programmation;TP;180
+2022-10-21T13:30:00;14;absence;;true;false;Enseignant011;R3.07 SQL dans un langage de programmation;TP;180
+2022-11-07T08:15:00;52;absence;;true;false;Enseignant001;R3.13 Communication professionnelle;CM;60
+2022-11-07T09:30:00;52;absence;;true;false;Enseignant001;R3.11 Droit des contrats et du numérique;TD;90
+2022-11-07T13:30:00;52;absence;;true;false;Enseignant007;R3.12 Anglais;EVALUATION;90
+2022-11-07T15:00:00;52;absence;;true;false;Enseignant005;R3.05 Programmation système;TP;90
+2022-11-08T13:00:00;5;absence;;false;false;Enseignant018;R3.08 Probabilités;CM;180
+2022-11-08T13:00:00;52;absence;;true;false;Enseignant018;R3.08 Probabilités;CM;180
+2022-11-08T16:00:00;52;absence;;true;false;Enseignant001;R3.13 Communication professionnelle;TP;90
+2022-11-09T08:00:00;52;absence;;true;false;Enseignant011;R3.07 SQL dans un langage de programmation;TP;180
+2022-11-10T08:00:00;5;absence;;true;false;Enseignant001;R3.11 Droit des contrats et du numérique;CM;60
+2022-11-10T08:00:00;52;absence;;true;false;Enseignant001;R3.11 Droit des contrats et du numérique;CM;60
+2022-11-10T09:15:00;5;absence;;true;false;Enseignant006;R3.04 Qualité et Développement;TD;180
+2022-11-10T09:15:00;52;absence;;true;false;Enseignant006;R3.04 Qualité et Développement;TD;180
+2022-11-10T15:00:00;5;absence;;true;false;Enseignant005;R3.05 Programmation système;TP;180
+2022-11-10T15:00:00;52;absence;;true;false;Enseignant005;R3.05 Programmation système;TP;180
+2022-11-14T09:15:00;2;absence;;false;false;Enseignant002;R3.09 Cryptographie et sécurité;TP;90
+2022-11-14T09:15:00;52;absence;;true;false;Enseignant002;R3.09 Cryptographie et sécurité;TP;90
+2022-11-14T09:20:00;32;absence;;false;false;Enseignant010;R3.14 Projet Professionnel et Personnel;TP;90
+2022-11-14T10:45:00;32;absence;;false;false;Enseignant002;R3.09 Cryptographie et sécurité;TP;90
+2022-11-14T10:50:00;2;absence;;false;false;Enseignant010;R3.14 Projet Professionnel et Personnel;TP;90
+2022-11-14T10:50:00;52;absence;;true;false;Enseignant010;R3.14 Projet Professionnel et Personnel;TP;90
+2022-11-14T16:50:00;2;absence;;false;false;Enseignant001;R3.11 Droit des contrats et du numérique;CM;60
+2022-11-14T16:50:00;52;absence;;true;false;Enseignant001;R3.11 Droit des contrats et du numérique;CM;60
+2022-11-15T11:20:00;2;absence;;false;false;Enseignant001;R3.11 Droit des contrats et du numérique;CM;60
+2022-11-15T11:20:00;52;absence;;true;false;Enseignant001;R3.11 Droit des contrats et du numérique;CM;60
+2022-11-15T13:30:00;2;absence;;false;false;Enseignant007;R3.12 Anglais;TP;90
+2022-11-15T13:30:00;52;absence;;true;false;Enseignant007;R3.12 Anglais;TP;90
+2022-11-15T15:00:00;2;absence;;false;false;Enseignant001;R3.11 Droit des contrats et du numérique;TD;90
+2022-11-15T15:00:00;52;absence;;true;false;Enseignant001;R3.11 Droit des contrats et du numérique;TD;90
+2022-11-15T16:30:00;22;absence;;true;false;Enseignant001;R3.11 Droit des contrats et du numérique;TD;90
+2022-11-16T09:00:00;14;absence;;false;false;Enseignant005;R3.06 Architecture des Réseaux;TP;180
+2022-11-16T13:30:00;2;absence;;false;false;Enseignant003;R3.01 Développement web;TP;180
+2022-11-17T09:00:00;2;absence;;false;false;Enseignant011;R3.07 SQL dans un langage de programmation;TP;180
+2022-11-17T09:00:00;3;absence;;false;true;Enseignant011;R3.07 SQL dans un langage de programmation;TP;180
+2022-11-17T10:30:00;14;absence;;false;false;Enseignant002;R3.09 Cryptographie et sécurité;TP;90
+2022-11-17T10:30:00;47;absence;;false;true;Enseignant002;R3.09 Cryptographie et sécurité;TP;90
+2022-11-17T13:20:00;2;absence;;false;false;Enseignant005;R3.05 Programmation système;TP;180
+2022-11-17T16:30:00;2;absence;;false;false;Enseignant005;R3.05 Programmation système;EVALUATION;90
+2022-11-17T16:30:00;14;absence;;false;false;Enseignant005;R3.05 Programmation système;EVALUATION;90
+2022-11-18T11:00:00;2;absence;;false;false;Enseignant019;R3.02 Développement efficace;TD;90
+2022-11-18T15:20:00;2;absence;;false;false;Enseignant016;R3.03 Analyse;EVALUATION;90
+2022-11-21T09:00:00;22;absence;;true;false;Enseignant007;R3.12 Anglais;TP;180
+2022-11-21T09:00:00;42;absence;;true;false;Enseignant006;R3.04 Qualité et Développement;TP;180
+2022-11-21T13:30:00;22;absence;;true;false;Enseignant006;R3.04 Qualité et Développement;TP;180
+2022-11-21T13:30:00;42;absence;;true;false;Enseignant007;R3.12 Anglais;TP;90
+2022-11-21T15:00:00;42;absence;;true;false;Enseignant001;R3.13 Communication professionnelle;TP;90
+2022-11-28T09:00:00;2;absence;;true;false;Enseignant001;R3.11 Droit des contrats et du numérique;TD;90
+2022-11-28T09:00:00;12;absence;;false;false;Enseignant001;R3.11 Droit des contrats et du numérique;TD;90
+2022-11-28T09:00:00;33;absence;;true;false;Enseignant001;R3.11 Droit des contrats et du numérique;TD;90
+2022-11-28T09:00:00;34;absence;;false;false;Enseignant001;R3.11 Droit des contrats et du numérique;TD;90
+2022-11-28T13:30:00;18;absence;;false;false;Enseignant001;R3.11 Droit des contrats et du numérique;TD;90
+2022-11-30T15:00:00;29;absence;;false;false;Enseignant001;R3.11 Droit des contrats et du numérique;TP;90
+2022-11-30T15:00:00;33;absence;;false;false;Enseignant001;R3.11 Droit des contrats et du numérique;TP;90
+2022-12-01T09:00:00;30;absence;;false;false;Enseignant001;R3.13 Communication professionnelle;TP;90
+2022-12-05T09:00:00;40;absence;;true;false;Enseignant003;R3.01 Développement web;TP;90
+2022-12-05T09:00:00;49;absence;;false;false;Enseignant006;R3.04 Qualité et Développement;TP;180
+2022-12-05T13:30:00;3;absence;;true;false;Enseignant001;R3.11 Droit des contrats et du numérique;TD;40
+2022-12-05T13:30:00;22;absence;;true;false;Enseignant002;R3.09 Cryptographie et sécurité;TP;90
+2022-12-05T13:30:00;40;absence;;true;false;Enseignant001;R3.11 Droit des contrats et du numérique;TD;90
+2022-12-05T15:00:00;22;absence;;true;false;Enseignant001;R3.11 Droit des contrats et du numérique;TD;90
+2022-12-05T15:00:00;30;absence;;false;false;Enseignant001;R3.11 Droit des contrats et du numérique;TD;90
+2022-12-05T15:00:00;40;absence;;true;false;Enseignant002;R3.09 Cryptographie et sécurité;TP;90
+2022-12-05T16:50:00;22;absence;;true;false;Enseignant001;R3.11 Droit des contrats et du numérique;CM;60
+2022-12-05T16:50:00;30;absence;;false;false;Enseignant001;R3.11 Droit des contrats et du numérique;CM;60
+2022-12-05T16:50:00;40;absence;;true;false;Enseignant001;R3.11 Droit des contrats et du numérique;CM;60
+2022-12-05T16:50:00;56;absence;;true;false;Enseignant001;R3.11 Droit des contrats et du numérique;CM;60
+2022-12-06T08:50:00;40;absence;;true;false;Enseignant015;R3.04 Qualité et Développement;TP;180
+2022-12-06T10:50:00;54;absence;;false;false;Enseignant015;R3.04 Qualité et Développement;TP;60
+2022-12-06T13:00:00;15;absence;;true;false;Enseignant005;R3.06 Architecture des Réseaux;TP;180
+2022-12-06T13:00:00;40;absence;;true;false;Enseignant018;R3.08 Probabilités;TD;180
+2022-12-06T16:00:00;40;absence;;true;false;Enseignant007;R3.12 Anglais;TP;90
+2022-12-07T08:00:00;8;absence;;true;false;Enseignant005;R3.06 Architecture des Réseaux;TP;180
+2022-12-07T08:00:00;40;absence;;true;false;Enseignant005;R3.06 Architecture des Réseaux;TP;180
+2022-12-07T11:00:00;8;absence;;true;false;Enseignant001;R3.13 Communication professionnelle;TP;90
+2022-12-07T11:00:00;40;absence;;true;false;Enseignant001;R3.13 Communication professionnelle;TP;90
+2022-12-08T08:00:00;8;absence;;true;false;Enseignant001;R3.11 Droit des contrats et du numérique;CM;60
+2022-12-08T08:00:00;32;absence;;false;false;Enseignant001;R3.11 Droit des contrats et du numérique;CM;60
+2022-12-08T09:20:00;8;absence;;true;false;Enseignant005;R3.06 Architecture des Réseaux;TP;180
+2022-12-08T09:20:00;32;absence;;false;false;Enseignant005;R3.06 Architecture des Réseaux;TP;180
+2022-12-08T13:30:00;8;absence;;true;false;Enseignant001;R3.11 Droit des contrats et du numérique;TD;90
+2022-12-08T13:30:00;32;absence;;false;false;Enseignant001;R3.11 Droit des contrats et du numérique;TD;90
+2022-12-09T08:00:00;21;absence;;false;false;Enseignant010;R3.14 Projet Professionnel et Personnel;TD;90
+2022-12-09T08:00:00;49;absence;;true;false;Enseignant010;R3.14 Projet Professionnel et Personnel;TD;90
+2022-12-09T09:30:00;49;absence;;true;false;Enseignant003;R3.01 Développement web;TP;180
+2022-12-13T13:00:00;23;absence;;true;false;Enseignant018;R3.08 Probabilités;TD;180
+2022-12-13T13:00:00;54;absence;;false;true;Enseignant001;R3.14 Projet Professionnel et Personnel;TD;90
+2022-12-13T14:30:00;54;absence;;false;true;Enseignant001;R3.11 Droit des contrats et du numérique;TD;90
+2022-12-13T16:00:00;13;retard;60;false;false;Enseignant001;R3.14 Projet Professionnel et Personnel;TD;90
+2022-12-13T16:00:00;23;absence;;true;false;Enseignant001;R3.14 Projet Professionnel et Personnel;TD;90
+2022-12-14T08:00:00;3;absence;;false;false;Enseignant010;R3.14 Projet Professionnel et Personnel;TP;90
+2022-12-14T08:00:00;28;absence;;true;false;Enseignant005;R3.06 Architecture des Réseaux;TP;180
+2022-12-14T09:00:00;17;absence;;false;false;Enseignant010;R3.14 Projet Professionnel et Personnel;TP;30
+2022-12-14T11:20:00;28;absence;;true;false;Enseignant015;R3.04 Qualité et Développement;CM;80
+2022-12-14T11:20:00;34;absence;;false;false;Enseignant015;R3.04 Qualité et Développement;CM;80
+2022-12-14T13:30:00;28;absence;;true;false;Enseignant001;R3.11 Droit des contrats et du numérique;TD;90
+2022-12-15T09:00:00;28;absence;;false;false;Enseignant015;R3.04 Qualité et Développement;TD;120
+2022-12-15T13:50:00;28;absence;;false;false;Enseignant001;R3.11 Droit des contrats et du numérique;CM;60
+2022-12-15T15:00:00;28;absence;;false;false;Enseignant008;STAGE Stage ou Alternance;RÉUNION STAGE;120
+2022-12-16T09:00:00;36;absence;;false;false;Enseignant015;R3.04 Qualité et Développement;TP;180
+2022-12-16T13:30:00;12;absence;;true;false;Enseignant007;R3.12 Anglais;TP;90
+2022-12-16T13:30:00;54;absence;;false;false;Enseignant007;R3.12 Anglais;TP;90
+2023-01-03T13:30:00;33;absence;;false;false;Enseignant002;R3.09 Cryptographie et sécurité;TP;90
+2023-01-03T15:00:00;33;absence;;false;false;Enseignant007;R3.12 Anglais;TP;90
+2023-01-03T16:30:00;33;absence;;false;false;Enseignant001;R3.11 Droit des contrats et du numérique;TD;90
+2023-01-05T13:30:00;15;absence;;false;false;Enseignant002;R3.09 Cryptographie et sécurité;TP;90
+2023-01-05T16:30:00;15;absence;;false;false;Enseignant001;R3.11 Droit des contrats et du numérique;TD;90
+2023-01-06T13:30:00;33;absence;;false;false;Enseignant001;R3.11 Droit des contrats et du numérique;TD;90
+2023-01-06T14:20:00;34;absence;;true;false;Enseignant001;R3.11 Droit des contrats et du numérique;TD;40
+2023-01-06T15:00:00;34;absence;;true;false;Enseignant019;R3.02 Développement efficace;TD;180
+2023-01-09T08:00:00;30;absence;;false;false;Enseignant019;R3.02 Développement efficace;TP;180
+2023-01-09T09:00:00;25;absence;;true;false;Enseignant008;R3.07 SQL dans un langage de programmation;TD;180
+2023-01-09T09:00:00;33;absence;;false;false;Enseignant008;R3.07 SQL dans un langage de programmation;TD;180
+2023-01-09T11:00:00;30;absence;;false;false;Enseignant001;R3.13 Communication professionnelle;TP;90
+2023-01-09T13:30:00;25;absence;;true;false;Enseignant019;R3.02 Développement efficace;TP;180
+2023-01-09T13:30:00;33;absence;;false;false;Enseignant019;R3.02 Développement efficace;TP;180
+2023-01-09T16:30:00;25;absence;;true;false;Enseignant001;R3.11 Droit des contrats et du numérique;TD;90
+2023-01-09T16:30:00;33;absence;;false;false;Enseignant001;R3.11 Droit des contrats et du numérique;TD;90
+2023-01-10T08:30:00;33;absence;;false;false;Enseignant002;R3.09 Cryptographie et sécurité;TP;90
+2023-01-10T13:30:00;33;absence;;false;false;Enseignant018;R3.08 Probabilités;TD;180
+2023-01-10T17:30:00;33;absence;;false;false;Enseignant001;R3.13 Communication professionnelle;TP;90
+2023-01-11T08:00:00;8;absence;;false;false;Enseignant001;R3.11 Droit des contrats et du numérique;CM;60
+2023-01-11T08:00:00;33;absence;;false;false;Enseignant001;R3.11 Droit des contrats et du numérique;CM;60
+2023-01-11T09:20:00;8;absence;;false;false;Enseignant015;R3.04 Qualité et Développement;TP;180
+2023-01-11T09:20:00;33;absence;;false;false;Enseignant015;R3.04 Qualité et Développement;TP;180
+2023-01-13T09:30:00;21;absence;;false;false;Enseignant020;R3.10 Management des systèmes d'information;TD;180
+2023-01-13T14:00:00;13;absence;;false;false;Enseignant005;R3.06 Architecture des Réseaux;TP;180
+2023-01-13T14:00:00;17;absence;;true;false;Enseignant020;R3.10 Management des systèmes d'information;TD;180
+2023-01-13T14:00:00;20;absence;;false;false;Enseignant005;R3.06 Architecture des Réseaux;TP;180
+2023-01-16T10:30:00;12;absence;;true;false;Enseignant001;R3.13 Communication professionnelle;TP;90
+2023-01-16T13:30:00;12;absence;;true;false;Enseignant007;R3.12 Anglais;TP;90
+2023-01-17T09:00:00;21;absence;;false;false;Enseignant005;R3.06 Architecture des Réseaux;TP;180
+2023-01-17T14:30:00;12;absence;;true;false;Enseignant005;R3.06 Architecture des Réseaux;TP;180
+2023-01-19T09:00:00;54;absence;;false;false;Enseignant008;R3.07 SQL dans un langage de programmation;TD;180
+2023-01-19T13:30:00;32;absence;;false;false;Enseignant001;R3.11 Droit des contrats et du numérique;TD;90
+2023-01-19T13:30:00;54;absence;;false;false;Enseignant001;R3.11 Droit des contrats et du numérique;TD;90
+2023-01-19T15:20:00;22;absence;;false;false;Enseignant008;R3.07 SQL dans un langage de programmation;TD;70
+2023-01-27T09:20:00;15;absence;;true;false;Enseignant021;R4.03 Qualité et au-delà du relationnel;TD;180
+2023-01-27T13:30:00;5;absence;;false;false;Enseignant019;R4.Real.08 Virtualisation;TD;180
+2023-01-27T13:30:00;15;absence;;true;false;Enseignant019;R4.Real.08 Virtualisation;TD;180
+2023-01-27T13:30:00;37;absence;;true;false;Enseignant021;R4.03 Qualité et au-delà du relationnel;TD;180
+2023-02-01T13:30:00;2;absence;;true;false;Enseignant017;R4.Real.11 Développement pour applications mobiles;TD;180
+2023-02-02T08:00:00;32;absence;;true;false;Enseignant007;R4.05 Anglais;TD;90
+2023-02-03T08:00:00;15;absence;;false;false;Enseignant007;R4.05 Anglais;TD;90
+2023-02-03T09:30:00;21;absence;;false;false;Enseignant007;R4.05 Anglais;TD;90
+2023-02-03T09:30:00;49;absence;;false;false;Enseignant007;R4.05 Anglais;TD;90
+2023-02-03T11:00:00;21;absence;;false;false;Enseignant002;R4.05 Anglais;TD;90
+2023-02-03T14:00:00;21;absence;;false;false;Enseignant003;R4.Real.13 Cryptographie et sécurité;TD;180
+2023-02-06T13:30:00;8;absence;;false;false;Enseignant007;R4.05 Anglais;TD;90
+2023-02-06T13:30:00;36;absence;;false;false;Enseignant002;R4.04 Méthodes d'optimisation;TD;90
+2023-02-07T10:30:00;34;absence;;true;false;Enseignant001;R4.06 Communication interne;TD;90
+2023-02-09T09:00:00;32;absence;;false;false;Enseignant017;R4.Real.11 Développement pour applications mobiles;TD;90
+2023-02-10T13:30:00;21;absence;;false;false;Enseignant003;R4.Real.13 Cryptographie et sécurité;TD;180
+2023-02-27T09:00:00;32;absence;;false;false;Enseignant022;R4.01 Architecture logicielle;TP;180
+2023-02-27T10:30:00;8;absence;;true;false;Enseignant001;R4.06 Communication interne;TD;90
+2023-02-27T10:30:00;13;absence;;false;false;Enseignant001;R4.06 Communication interne;TD;90
+2023-02-27T13:30:00;30;absence;;false;false;Enseignant001;R4.06 Communication interne;TD;90
+2023-02-27T16:30:00;8;absence;;true;false;Enseignant002;R4.Real.12 Automates et langages;TD;90
+2023-02-27T16:30:00;30;absence;;false;false;Enseignant001;R4.06 Communication interne;TD;90
+2023-02-28T08:00:00;8;absence;;false;false;Enseignant023;R4.Real.09 Management avancé des systèmes d'information;CM;60
+2023-03-01T09:20:00;15;absence;;false;false;Enseignant003;R4.Real.13 Cryptographie et sécurité;TD;180
+2023-03-03T13:30:00;32;absence;;true;false;Enseignant007;R3.12 Anglais;TD;90
+2023-03-07T08:00:00;7;absence;;true;false;Enseignant010;R4.07 Projet professionnel et personnel;TD;90
+2023-03-07T08:00:00;36;absence;;false;true;Enseignant010;R4.07 Projet professionnel et personnel;TD;90
+2023-03-07T09:30:00;7;absence;;true;false;Enseignant003;R4.Real.13 Cryptographie et sécurité;TP;180
+2023-03-07T13:30:00;15;absence;;true;false;Enseignant003;R4.Real.13 Cryptographie et sécurité;TP;180
+2023-03-07T15:00:00;30;absence;;false;false;Enseignant022;R4.01 Architecture logicielle;TP;180
+2023-03-07T15:00:00;36;absence;;false;true;Enseignant022;R4.01 Architecture logicielle;TP;180
+2023-03-07T16:30:00;15;absence;;true;false;Enseignant007;R4.05 Anglais;TD;90
+2023-03-09T09:00:00;52;retard;90;false;false;Enseignant022;R4.01 Architecture logicielle;TP;180
+2023-03-09T13:30:00;15;absence;;false;false;Enseignant002;R4.04 Méthodes d'optimisation;EVALUATION;90
+2023-03-09T15:00:00;15;absence;;false;false;Enseignant007;R4.05 Anglais;EVALUATION;90
+2023-03-10T08:00:00;47;absence;;true;false;Enseignant023;R4.Real.09 Management avancé des systèmes d'information;CM;60
+2023-03-10T09:20:00;47;absence;;true;false;Enseignant023;R4.Real.09 Management avancé des systèmes d'information;TD;180
+2023-03-10T09:20:00;49;absence;;false;false;Enseignant023;R4.Real.09 Management avancé des systèmes d'information;TD;180
+2023-03-10T09:20:00;54;absence;;false;false;Enseignant024;R4.02 Qualité de développement;CM+TD;180
+2023-03-16T13:30:00;2;absence;;true;false;Enseignant007;R4.05 Anglais;TP;90
+2023-03-17T08:00:00;2;absence;;false;false;Enseignant010;R4.07 Projet professionnel et personnel;TD;90
+2023-03-17T08:00:00;14;absence;;false;false;Enseignant010;R4.07 Projet professionnel et personnel;TD;90
+2023-03-17T08:00:00;18;absence;;true;false;Enseignant010;R4.07 Projet professionnel et personnel;TD;90
+2023-03-17T13:30:00;18;absence;;true;false;Enseignant007;R4.05 Anglais;TP;90
+2023-03-24T13:30:00;36;absence;;false;false;Enseignant007;R4.05 Anglais;TP;90
+2023-03-24T15:00:00;7;absence;;false;false;Enseignant001;R4.06 Communication interne;TD;90
+2023-03-24T15:00:00;32;absence;;false;false;Enseignant001;R4.06 Communication interne;TD;90
+2023-03-24T15:00:00;43;absence;;false;false;Enseignant001;R4.06 Communication interne;TD;90
+2023-03-29T09:00:00;28;retard;50;false;false;Enseignant022;R4.01 Architecture logicielle;TP;180
+2023-04-03T08:00:00;13;absence;;false;false;Enseignant001;PORTFLIO démarche Portfolio;TP;60
+2023-04-04T08:00:00;12;absence;;false;false;Enseignant010;R4.07 Projet professionnel et personnel;TD;90
+2023-04-04T09:30:00;12;absence;;false;false;Enseignant025;R4.02 Qualité de développement;TD;180
+2023-04-05T15:30:00;27;absence;;false;true;Enseignant026;R4.Real.10 Complément web;TD;180
+2023-04-05T15:30:00;31;absence;;false;true;Enseignant026;R4.Real.10 Complément web;TD;180
+2023-04-05T15:30:00;41;absence;;false;true;Enseignant026;R4.Real.10 Complément web;TD;180
+2023-04-05T15:30:00;56;absence;;false;true;Enseignant026;R4.Real.10 Complément web;TD;180
+2023-04-07T13:30:00;8;absence;;true;false;Enseignant024;R4.02 Qualité de développement;TD;180
+2023-04-07T15:00:00;28;absence;;true;false;Enseignant023;R4.Real.09 Management avancé des systèmes d'information;TP;90
+2023-04-07T16:30:00;8;absence;;true;false;Enseignant023;R4.Real.09 Management avancé des systèmes d'information;TP;90
+2023-04-07T16:30:00;16;absence;;false;false;Enseignant026;R4.Real.09 Management avancé des systèmes d'information;TD;90
+2023-04-07T16:30:00;28;absence;;true;false;Enseignant026;R4.Real.09 Management avancé des systèmes d'information;TD;90
+2023-04-07T16:30:00;29;absence;;false;false;Enseignant026;R4.Real.09 Management avancé des systèmes d'information;TD;90
+2023-04-07T16:30:00;34;absence;;false;false;Enseignant026;R4.Real.09 Management avancé des systèmes d'information;TD;90
+2023-04-11T08:00:00;8;absence;;true;false;Enseignant010;R4.07 Projet professionnel et personnel;TD;90
+2023-04-11T08:00:00;15;absence;;true;false;Enseignant010;R4.07 Projet professionnel et personnel;TD;90
+2023-04-11T08:00:00;32;absence;;false;false;Enseignant001;R4.06 Communication interne;TD;90
+2023-04-11T08:00:00;36;absence;;false;false;Enseignant001;R4.06 Communication interne;TD;90
+2023-04-11T09:30:00;15;absence;;true;false;Enseignant022;R4.01 Architecture logicielle;TP;180
+2023-04-11T09:30:00;32;absence;;false;false;Enseignant023;R4.Real.09 Management avancé des systèmes d'information;TP;180
+2023-04-11T11:00:00;8;absence;;true;false;Enseignant007;R4.05 Anglais;TP;90
+2023-04-11T14:00:00;8;absence;;true;false;Enseignant022;R4.01 Architecture logicielle;TP;180
+2023-04-11T14:00:00;15;absence;;true;false;Enseignant023;R4.Real.09 Management avancé des systèmes d'information;TP;180
+2023-04-11T17:00:00;8;absence;;true;false;Enseignant008;STAGE Stage ou Alternance;RÉUNION STAGE;120
+2023-04-12T08:00:00;8;absence;;true;false;Enseignant001;R4.Real.11 Développement pour applications mobiles;TD;90
+2023-04-12T09:30:00;8;absence;;true;false;Enseignant021;R4.03 Qualité et au-delà du relationnel;TD;180
+2023-04-14T08:00:00;8;absence;;true;false;Enseignant023;R4.Real.09 Management avancé des systèmes d'information;CM;90
+2023-04-14T09:20:00;8;absence;;true;false;Enseignant024;R4.02 Qualité de développement;TD;180
+2023-04-14T09:20:00;15;absence;;false;false;Enseignant024;R4.02 Qualité de développement;TD;180
+2023-04-14T16:30:00;8;absence;;true;false;Enseignant026;R4.Real.10 Complément web;EVALUATION;90
