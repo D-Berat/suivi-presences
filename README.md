@@ -103,9 +103,13 @@ Les noms, prénoms et e-mails ont été remplacés. Les valeurs statistiques ont
 
 ## 👤 Ma contribution
 
-Projet réalisé en binôme avec Célian Gloro. J'ai notamment réalisé les analyses de la distribution des signalements d'assiduité et des notes de l'UE 1.1, ainsi que les croisements baccalauréat/avis de poursuite d'études et baccalauréat/notes. Nous avons également étudié ensemble l'évolution des résultats entre deux semestres.
+J'ai assuré la réalisation principale du projet, de la conception de la base de données à l'application JavaFX et à l'analyse statistique.
 
-Ce travail m'a permis de mettre en pratique la préparation de données, le choix de représentations adaptées et l'interprétation de résultats, dans un projet reliant modélisation relationnelle, SQL et application graphique.
+- **Base de données** : dictionnaire des données, dépendances fonctionnelles, modèles MCD/MLD avec Looping, création et alimentation de la base SQL Server, rôles, vues, droits et requêtes métier.
+- **Application JavaFX/JDBC** : réalisation des fonctionnalités de consultation des étudiants et de saisie des présences à partir du socle fourni.
+- **Analyse Python** : réalisation de l'essentiel du notebook Jupyter, avec préparation des données, analyses statistiques, visualisations et interprétation des résultats.
+
+Ce travail m'a permis de relier la conception d'une base relationnelle à son exploitation depuis une interface graphique, puis à l'analyse des données avec Python. Projet mené en binôme avec Célian Gloro.
 
 ## 🚀 Lancer le projet
 
